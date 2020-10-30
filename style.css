@@ -55,6 +55,7 @@ code, pre {
 a {
   color: rgb(97, 202, 255);
   text-decoration-color: currentcolor;
+  text-shadow: rgba(24, 26, 27, 0.9) 0px 1px 0px;
 }
 
 .wrapper {

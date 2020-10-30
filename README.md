@@ -32,7 +32,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
 ### Owner and Creator
 #### Curriculeon: The Online Coding Curriculum
-* [Curriculeon](https://curriculeon.github.io/Curriculeon/) is a free online curriculum built in [RevealJs](https://github.com/hakimel/reveal.js/), [Jekyl](https://jekyllrb.com/), and [Github Pages](https://pages.github.com/), which offers free open-source learning content for the following topics:
+* [Curriculeon](https://curriculeon.github.io/Curriculeon/) is an online curriculum built in [RevealJs](https://github.com/hakimel/reveal.js/), [Jekyl](https://jekyllrb.com/), and [Github Pages](https://pages.github.com/), which offers free open-source learning content for the following topics:
     * Java Web Development
     * Command Line Scripting
     * GitCli
@@ -276,7 +276,7 @@ The course was taught using a stack of Maven, SpringBoot, MySql, Angular and Her
 * The objective of this research was to develop a system that would aid in the prevention of catastrophic medical events through persistent intelligent monitoring and early-warning alerting.
 * Created interactive electronics using Arduino open-source prototyping platform.
 * Coded in C++ to manipulate Arduino microcontroller and eHealth sensor shield.
-* Developed poster presentation for 2014 SMILE Undergraduate Summer Research Symposium.
+* [Developed poster presentation for 2014 SMILE Undergraduate Summer Research Symposium](http://www.garyholness.com/LeonHunterERNPoster.pdf).
 * Presented at 2014 ERN (Emerging Researchers National) conference.
 
 ### Programming Tutor
