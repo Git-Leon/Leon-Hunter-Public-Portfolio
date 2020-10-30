@@ -1,5 +1,7 @@
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 
+_Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/master/Leon-Hunter-Public-Portfolio.pdf) to download the `.pdf!`._
+
 # Senior Cloud Native Application Developer
 # Junior Cloud DevOps Engineer
 
@@ -10,7 +12,6 @@
 * **Email**: <a href="mailto:xleonhunter@gmail.com">`xleonhunter@gmail.com`</a>
 * **Website:** <a href="https://git-leon.github.io/Leon-Hunter-Public-Portfolio/">`https://git-leon.github.io/Leon-Hunter-Public-Portfolio`</a>
 * **LinkedIn:** <a href="">`https://www.linkedin.com/in/leon-hunter-3230408b`</a>
-* **Printable Resume:** Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/master/Leon-Hunter-Public-Portfolio.pdf) to download.
 * **Github Organization Ownership**
     * `https://github.com/curriculeon`
     * `https://github.com/git-leon`
