@@ -1,4 +1,5 @@
 <!-- <link rel="stylesheet" type="text/css" media="all" href="./midnight-style.css" /> -->
+## About
 
 ### Contact Information
 * **Email** - xleonhunter@gmail.com
@@ -34,7 +35,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     * Development Operations - (DevOps)
 
 * The following is a list in ascending order of delivery date of some of the relevant processes that were covered and applications that were built during a 14-week program in a single lecture (**90 minutes or less**). Demonstrations relied heavily on GitOps, TDD and Cloud Native practices; enforcing version-control, portability and testability across each of the developer’s environments. It should be noted that each application, even the creation of the Github repository, was built in front of a live audience of 25 to 30 developers, while polling for and answering questions.
-    * A [JUnit Testing application](https://github.com/curriculeon/maven.java-fundamentals) built with Maven using JUnit5 testing paradigms and conventions for testing input and output of algorithms;
+    * A [simple JUnit Testing application](https://github.com/curriculeon/maven.java-fundamentals) built with Maven using JUnit5 testing paradigms and conventions for testing input and output of algorithms;
         * The intent of building this application for the developers is to demonstrate how to implement proper TDD practices. It is critical that this is presented early to the developer to ensure that each demonstration that follows can be built and then tested appropriately.
     * A [crude database-access application](https://github.com/curriculeon/jdbc.project-template) built with Maven using JUnit5 and JDBC to test database connectivity, querying capabilities, and database insertion;
         * The intent of building this application for the developers is to demonstrate how to leverage Java’s JDBC API to connect to delete, create, and connect to a new connection. The demonstration included how to switch Driver implementation by modifying the `pom.xml` to specify the JDBC driver.
@@ -62,28 +63,35 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
 ### Owner and Creator
 #### Leonium.jar: A Selenium and ExtentReport Wrapper Library
-* Leonium is a `.jar` deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils/) that is used to automate Selenium build configuration and script development.
+* Leonium is an [uber jar]() deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils/) that is used to automate Selenium build configuration and script development.
 * The library includes [an embedded `.jar` used for dynamically downloading driver binaries](https://github.com/bonigarcia/webdrivermanager)
     * This allows this framework to run `GeckoDriver`, `ChromeDriver`, `PhantomDriver`, `HtmlUnitDriver` without downloading any external dependencies
 * The library also includes mechanisms for
     * enabling logging for each web-interaction
     * enabling reporting using [ExtentReports]() for aggregating results
     * [helper classes](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/git_leon/leonium/browsertools) with [built-in intelligent-waits](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/git_leon/leonium/browsertools/browserhandler/waiting)
-
-
 
 
 ### Owner and Creator
 #### Opencvl.jar: A Selenium and ExtentReport Wrapper Library
-* Opencvl is a `.jar` deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils/) that is used to ease OpenCV build configuration and application development.
-* The library includes [an embedded `.jar` used for dynamically downloading driver binaries](https://github.com/bonigarcia/webdrivermanager)
-    * This allows this framework to run `GeckoDriver`, `ChromeDriver`, `PhantomDriver`, `HtmlUnitDriver` without downloading any external dependencies
-* The library also includes mechanisms for
-    * a factory class for dynamically fetching haarcascade
-    * enabling logging for each web-interaction
-    * enabling reporting using [ExtentReports]() for aggregating results
-    * [helper classes](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/git_leon/leonium/browsertools) with [built-in intelligent-waits](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/git_leon/leonium/browsertools/browserhandler/waiting)
+* Opencvl is an [uber jar]() deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils/) that is used to ease OpenCV build configuration and application development.
+* The library includes mechanisms for
+    * [a factory class for dynamically fetching haarcascade classififers](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/utils/CascadeClassifierFactory.java)
+    * [face detection interface](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/facedetector/FaceDetectorInterface.java)
+    * [default face detection implementation with CascadeClassifier dependency injection support](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/facedetector/FaceDetector.java)
+    * [face detection builder class](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/facedetector/FaceDetectorBuilder.java)
+    * [face detection factory class](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/facedetector/FaceDetectorFactory.java)
 
+
+### Owner and Creator
+#### JFoot.jar: A Greenfoot Wrapper Library
+* Opencvl is an [uber jar]() deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils/) that is used to ease OpenCV build configuration and application development.
+* The library includes mechanisms for
+    * [a factory class for dynamically fetching haarcascade classififers](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/utils/CascadeClassifierFactory.java)
+    * [face detection interface](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/facedetector/FaceDetectorInterface.java)
+    * [default face detection implementation with CascadeClassifier dependency injection support](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/facedetector/FaceDetector.java)
+    * [face detection builder class](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/facedetector/FaceDetectorBuilder.java)
+    * [face detection factory class](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/facedetector/FaceDetectorFactory.java)
 
 
 
