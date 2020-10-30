@@ -1,4 +1,4 @@
-<!-- <link rel="stylesheet" type="text/css" media="all" href="./style.css" /> -->
+<link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 ## About
 
 ### Contact Information
@@ -40,7 +40,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
         * The intent of building this application for the developers is to demonstrate how to implement proper TDD practices. It is critical that this is presented early to the developer to ensure that each demonstration that follows can be built and then tested appropriately.
     * A [crude database-access application](https://github.com/curriculeon/jdbc.project-template) built with Maven using JUnit5 and JDBC to test database connectivity, querying capabilities, and database insertion;
         * The intent of building this application for the developers is to demonstrate how to leverage Java’s JDBC API to connect to delete, create, and connect to a new connection. The demonstration included how to switch Driver implementation by modifying the `pom.xml` to specify the JDBC driver.
-    * A [scalable database-access application](https://github.com/curriculeon/maven.jpa_convert-from-jdbc) built with Maven using JUnit5 and JDBC to test database connectivity querying capabilities and database insertion;
+    * A [scalable database-access application](https://github.com/curriculeon/maven.jpa_convert-from-jdbc) built with Maven using JUnit5 and JDBC to test database connectivity querying capabilities and database insertion
         * The purpose of demonstrating how to build this application is to assist the developers with establishing how to build an application that leverages strictly JDBC and scales easily by adding more POJO-oriented logic.
         * This demonsstration will prepare developers for proper application-design and scalability by abiding by SOLID principles and introducing GoF Design Patterns (particularly factories, builders, and singletons).
         * In the days that follow, the developers witnesses how proper design can scale flexibly. The decision to implement this POJO-oriented logic is to later enforce an entity-driven-design implementation using JPA and again later with a Spring Boot implementation.

@@ -1,5 +1,8 @@
 /* imported from https://github.com/yrgoldteeth/darkdowncss/blob/master/darkdown.css */
-body{
+h3 {
+  color: rgb(103, 234, 169)
+}
+/* body{
     margin: 0 auto;
     background: #000;
     font-family: Georgia, Palatino, serif;
@@ -256,4 +259,4 @@ button:active {
 button::-moz-focus-inner {
   padding: 0;
   border: 0;
-}
+} */
