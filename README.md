@@ -63,6 +63,8 @@ Strong information technology professional with a Bachelor of Science (BS) focus
         * The purpose of building this application is to further expound how microserver architecture allows us to easily swap implementations of a layer of the stack
     * A [continuous integration system]() (Git, Jenkins, Web Server, Web Application) which fetches a remote repository, builds the application, and runs tests, and reports the results to Jenkins
         * The intent of building this system is to demonstrate how to create an automated pipeline for continuous integration and continuous delivery
+    * A [demonstration on containerizing Spring jars](https://curriculeon.github.io/Curriculeon/lectures/cloud/docker/dockerize-jar-application/lecture.html#/1/1)
+        * This demonstration allows developers to learn how to containerize applications using Docker with the intent to deploy the application in the most portable way possible.
     * A [demonstration on deploying Spring jars to AWS Elastic Beanstalk](https://curriculeon.github.io/Curriculeon/lectures/cloud/aws/aws-elastic-beanstalk_deploying-maven-springboot-to/deploy-springboot-to-aws/lecture.html)
         * The intent of this demonstration was to provide the developers with industry standard practice for deploying and managing applications on the cloud.
 
