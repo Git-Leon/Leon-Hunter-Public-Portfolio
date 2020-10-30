@@ -1,13 +1,28 @@
 /* imported from https://github.com/yrgoldteeth/darkdowncss/blob/master/darkdown.css */
+h2 {
+  color: #159957
+}
 h3 {
   color: rgb(103, 234, 169)
 }
-.wrapper {
-  color:#555
+
+h4, h5, h6 {
+  color: rgb(186, 180, 171);
 }
 
-body {
-  color: #555
+.wrapper {
+  color:rgb(178, 172, 162);
+  background-color: rgb(43, 46, 48);
+  background-image: none;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 0px 1px, rgba(0, 0, 0, 0.45) 0px 3px 10px
+}
+
+strong {
+  color: rgb(211, 207, 201)
+}
+
+html {
+  background: #6C7989
 }
 /* body{
     margin: 0 auto;
