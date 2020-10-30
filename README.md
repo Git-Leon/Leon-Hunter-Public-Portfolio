@@ -151,7 +151,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
 ### Remote Curriculum Developer 
 #### Per Scholas
-#### March 2020 – June 2020; Wilmington, DE.
+##### March 2020 – June 2020; Wilmington, DE.
 
 * As a remote curriculum developer, responsibilities included creating content for curriculums which extensively cover the following topics and more over a twelve to fourteen week period:
     * A+ CompTIA
