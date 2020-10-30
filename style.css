@@ -3,7 +3,6 @@ header {
   background-image: none;
   border-bottom-color: rgb(38, 78, 97);
 }
-
 a {
   color: rgb(97, 202, 255);
   text-decoration-color: currentcolor;
@@ -20,6 +19,9 @@ h4, h5, h6 {
   color: rgb(186, 180, 171);
 }
 
+code, pre {
+  color: rgb(200, 195, 188);
+}
 .wrapper {
   color:rgb(178, 172, 162);
   background-color: rgb(43, 46, 48);
