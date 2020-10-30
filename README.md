@@ -129,7 +129,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
 ### Remote Curriculum Developer 
 #### Per Scholas: Cloud DevOps Engineering
-#### September 2020 – November 2020.
+##### September 2020 – November 2020.
 * As a remote curriculum developer, responsibilities included creating content for curriculums which extensively cover the following topics and more over a twelve to fourteen week period:
     * Cloud Security
     * Cloud DevOps
@@ -138,7 +138,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
 ### Remote Lead Technical Instructor 
 #### Per Scholas: Full Stack Java Engineering Course 
-#### June 2020 – September 2020; Charlotte, NC.
+##### June 2020 – September 2020; Charlotte, NC.
 
 * Ceated more than 65 github repositories, along with branches and configured branching rules, for trainees to leverage to build applications, culminating more than [550 Git contributions within the organization during the 14 week program](https://github.com/Git-Leon?from=2020-10-01&to=2020-10-25&org=platformps&year_list=1).
 * Managed the group of developers through the development of more than 20 functioning full stack java applications of developers by utilizing GitOps and Cloud Native Application Development practices. Application stacks used some variance of the technologies listed below.
@@ -197,7 +197,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
 ### Contractor / Technical Instructor
 #### JPMorgan Chase & Co.
-#### October 2018 – November 2018; Glasgow, United Kingdom
+##### October 2018 – November 2018; Glasgow, United Kingdom
 
 * Contracted through ZipCodeWilmington, I served as a technical Java instructor teaching web-development to JP Morgan’s incoming, and transitioning developers located in Glasgow, Scotland.
 * The course was an intense 12 week training program mocking a real-world developer environment by enforcing collaboration strictly through Github, and enforcing 12 factor configuration methodologies such as leveraging Maven for dependency management and environment variables for application configuration.
@@ -262,7 +262,7 @@ The course was taught using a stack of Maven, SpringBoot, MySql, Angular and Her
 
 ### Programming Tutor
 #### Delaware State University
-#### January 2015 – May 2015; Dover, DE.
+##### January 2015 – May 2015; Dover, DE.
 
 * Aided students with completing projects developed in python & java.
 * Assisted with understanding of programming logic.
