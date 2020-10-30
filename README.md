@@ -22,7 +22,8 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 ## Personal Projects
 * more than [1800 total Git contributions in the past year](https://github.com/Git-Leon?tab=overview).
 
-### Curriculeon - The Computing Curriculum: Owner and Creator
+### Owner and Creator
+#### Curriculeon: The Computing Curriculum
 * [Curriculeon](https://curriculeon.github.io/Curriculeon/) is an online portal built in [RevealJs](), [Jekyl](), and [Github Pages](), which offers free open-source curriculum content for the following courses:
     * Java Web Development
     * Command Line Scripting
