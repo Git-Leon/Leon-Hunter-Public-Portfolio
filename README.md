@@ -1,5 +1,8 @@
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 
+# Senior Cloud Native Application Developer
+# Junior Cloud DevOps Engineer
+
 ## About
 
 ### Contact Information
@@ -249,7 +252,7 @@ The course was taught using a stack of Maven, SpringBoot, MySql, Angular and Her
 ##### August 2015 – December 2015; Dover, DE.
 
 * The objective of this project was to develop a genetic algorithm to control a spatial light modulator (SLM) used for shaping the profile of a laser beam.
-* Implemented evolutionary algorithm for adaptive optics using MatLAB.
+* Implemented [evolutionary algorithm for adaptive optics](https://github.com/Git-Leon/adaptive-optic-ga) using MatLAB
 * Interfaced MatLAB with LabVIEW software.
 
 ### Operations Leadership Intern
