@@ -1,6 +1,4 @@
-<link rel="stylesheet" type="text/css" media="all" href="./midnight-style.css" />
-
-# Leon Hunter Public Portfolio
+<!-- <link rel="stylesheet" type="text/css" media="all" href="./midnight-style.css" /> -->
 
 ### Contact Information
 * **Email** - xleonhunter@gmail.com
@@ -18,6 +16,9 @@ Experienced Technical Instructor and T-shaped Engineer with a demonstrated histo
 Highly skilled in Cloud Native Application Development using Java8, Spring, Mockito, and Angular culminating  more than [1800 total Git contributions in the past year](https://github.com/Git-Leon?tab=overview).
 Knowledgeable in Cloud Dev Ops using unittest, JUnit5, Selenium, Docker, Kubernetes, Jenkins, and AWS.
 Strong information technology professional with a Bachelor of Science (BS) focused in Computer Science, Mathematics Minor from Delaware State University.
+
+
+<hr><hr>
 
 ## Personal Projects
 
@@ -59,6 +60,35 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     * A [demonstration on deploying Spring jars to AWS Elastic Beanstalk](https://curriculeon.github.io/Curriculeon/lectures/cloud/aws/aws-elastic-beanstalk_deploying-maven-springboot-to/deploy-springboot-to-aws/lecture.html)
         * The intent of this demonstration was to provide the developers with industry standard practice for deploying and managing applications on the cloud.
 
+### Owner and Creator
+#### Leonium.jar: A Selenium and ExtentReport Wrapper Library
+* Leonium is a `.jar` deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils/) that is used to automate Selenium build configuration and script development.
+* The library includes [an embedded `.jar` used for dynamically downloading driver binaries](https://github.com/bonigarcia/webdrivermanager)
+    * This allows this framework to run `GeckoDriver`, `ChromeDriver`, `PhantomDriver`, `HtmlUnitDriver` without downloading any external dependencies
+* The library also includes mechanisms for
+    * enabling logging for each web-interaction
+    * enabling reporting using [ExtentReports]() for aggregating results
+    * [helper classes](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/git_leon/leonium/browsertools) with [built-in intelligent-waits](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/git_leon/leonium/browsertools/browserhandler/waiting)
+
+
+
+
+### Owner and Creator
+#### Opencvl.jar: A Selenium and ExtentReport Wrapper Library
+* Opencvl is a `.jar` deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils/) that is used to ease OpenCV build configuration and application development.
+* The library includes [an embedded `.jar` used for dynamically downloading driver binaries](https://github.com/bonigarcia/webdrivermanager)
+    * This allows this framework to run `GeckoDriver`, `ChromeDriver`, `PhantomDriver`, `HtmlUnitDriver` without downloading any external dependencies
+* The library also includes mechanisms for
+    * a factory class for dynamically fetching haarcascade
+    * enabling logging for each web-interaction
+    * enabling reporting using [ExtentReports]() for aggregating results
+    * [helper classes](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/git_leon/leonium/browsertools) with [built-in intelligent-waits](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/git_leon/leonium/browsertools/browserhandler/waiting)
+
+
+
+
+
+<hr><hr>
 
 ## Experience:
 ### (Upcoming) Remote Lead Technical Instructor 
