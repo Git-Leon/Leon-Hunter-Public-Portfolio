@@ -7,8 +7,8 @@
 * **Email**: <a href="mailto:xleonhunter@gmail.com">`xleonhunter@gmail.com`</a>
 * **Website:** `https://git-leon.github.io/Leon-Hunter-Public-Portfolio/`
 * **Github Organizations**
-    * https://github.com/curriculeon
-    * https://github.com/git-leon
+    * `https://github.com/curriculeon`
+    * `https://github.com/git-leon`
 
 ### Education
 * Delaware State University (2011 - 2015)
