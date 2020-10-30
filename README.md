@@ -19,6 +19,49 @@ Highly skilled in Cloud Native Application Development using Java8, Spring, Mock
 Knowledgeable in Cloud Dev Ops using unittest, JUnit5, Selenium, Docker, Kubernetes, Jenkins, and AWS.
 Strong information technology professional with a Bachelor of Science (BS) focused in Computer Science, Mathematics Minor from Delaware State University.
 
+## Personal Projects
+* more than [1800 total Git contributions in the past year](https://github.com/Git-Leon?tab=overview).
+
+### Curriculeon - The Computing Curriculum: Owner and Creator
+* [Curriculeon]() is an online portal built in [RevealJs](), [Jekyl](), and [Github Pages](), which offers free open-source curriculum content for the following courses:
+    * Java Web Development
+    * Command Line Scripting
+    * GitCli
+    * HTML/CSS/JS
+    * Python Scripting
+    * Cloud Computing & Cloud Infrastructure
+    * Development Operations - (DevOps)
+
+* The following is a list in ascending order of delivery date of some of the relevant processes that were covered and applications that were built during a 14-week program in a single lecture (**90 minutes or less**). Demonstrations relied heavily on GitOps, TDD and Cloud Native practices; enforcing version-control, portability and testability across each of the developer’s environments. It should be noted that each application, even the creation of the Github repository, was built in front of a live audience of 25 to 30 developers, while polling for and answering questions.
+    * A [Unit Testing application]() built with Maven using JUnit5 testing paradigms and conventions for testing input and output of algorithms;
+        * The intent of building this application for the developers is to demonstrate how to implement proper TDD practices. It is critical that this is presented early to the developer to ensure that each demonstration that follows can be built and then tested appropriately.
+    * A [crude database-access application]() built with Maven using JUnit5 and JDBC to test database connectivity, querying capabilities, and database insertion;
+        * The intent of building this application for the developers is to demonstrate how to leverage Java’s JDBC API to connect to delete, create, and connect to a new connection. The demonstration included how to switch Driver implementation by modifying the `pom.xml` to specify the JDBC driver.
+    * A [scalable database-access application]() built with Maven using JUnit5 and JDBC to test database connectivity querying capabilities and database insertion;
+        * The purpose of demonstrating how to build this application is to assist the developers with establishing how to build an application that leverages strictly JDBC and scales easily by adding more POJO-oriented logic.
+        * The intent of building this application is to prepare the developers for proper application-design and scalability by abiding by SOLID principles and introducing GoF Design Patterns (particularly factories, builders, and singletons).
+        * In the days that follow, the developers witnesses how proper design can scale flexibly. The decision to implement this POJO-oriented logic is to later enforce an entity-driven-design implementation using JPA and again later with a Spring Boot implementation.
+    * A [scalable-database access application]() built with Maven using JUnit5 and JDBC and JPA.
+        * The developers witnesses how the aforementioned application is easily transformed into a JPA project by introducing `persistence.xml` in the `main/resources/META-INF` directory and including a JPA flavor in the `pom.xml`.
+    * A [Spring application]() which exposes basic CRUD operations of a controller managing an entity with implicit @Basic field-types
+        * By leveraging the H2-console, the developers witness the entire development lifecycle of a Spring Boot application beginning with empty tables. As an Entity is defined, the developers immediately view the change in the console.
+        * The developers benefits from viewing this demonstration by witnessing how Beans, EntityManager, IoC container, and Dependency Injection work in the context of Spring
+        * The application is tested and interacted with via Postman
+    * A [Spring application]() with automated tests for Controllers, Services, and Repositories by using BDDMockito
+        * Using Junit & SpringRunner, MockMvc, MockBean, BDDMockito, and Jackson databind, the developers learns how to create automated tests to check the correctness of the web server. This step is critical in the developers’ advancement toward automation. This ensures that each of the applications that follow can be provisioned with automated tested.
+    * A [Spring application]() which exposes CRUD controllers with multi-dependent services and entities with relational cardinality
+        * The developers establishes how to make use of an Entity with a cardinal relation to another Entity (1-1, 1-M, M-M, M-1). Additionally, they view how to inject multiple dependencies from the IoC container into the scope of a dependee.
+    * An [Application]() (Web Server and Web Application) which renders a webpage with content injected from the web server 
+        * This application allows the developers to see how to communicate throughout their entire application-stack: H2 in-memory database, Spring WebServer, JSP  Web Application. 
+    * An [Application]() (Web Server and Web Application) which renders a login page to create and manage User sessions within the system
+        * Using Spring security and the aforementioned technologies, the developers learns how to create an application which enables sign-up, and login features. Additionally, the application manages User sessions for multiple connections and instances.
+    * An [Application]() (Web Server and Web Application) which renders a login page to create and manage User sessions within the system
+        * Using Spring security and the aforementioned technologies, the developers learns how to create an application which enables sign-up, and login features. Additionally, the application manages User sessions for multiple connections and instances.
+    * A [continuous integration system]() (Git, Jenkins, Web Server, Web Application) which fetches a remote repository, builds the application, and runs tests, and reports the results to Jenkins
+    * A [demonstration on deploying Spring applications to Heroku]()
+        * The intent of this demonstration was to provide the developers with a free option for quickly deploying Spring applications onto the cloud.
+    * A [demonstration on deploying Spring jars to AWS Elastic Beanstalk]()
+        * The intent of this demonstration was to provide the developers with industry standard practice for deploying and managing applications on the cloud.
 
 
 ## Experience:
@@ -48,40 +91,10 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 #### Per Scholas: Full Stack Java Engineering Course 
 #### June 2020 – September 2020; Charlotte, NC.
 
-* Ceated more than 65 github repositories, along with branches and configured branching rules, for trainees to leverage to build applications, culminating more than [600 Git contributions within the organization](https://github.com/Git-Leon?from=2020-10-01&to=2020-10-25&org=platformps&year_list=1) and [1800 total Git contributions in the past year](https://github.com/Git-Leon?tab=overview).
+* Ceated more than 65 github repositories, along with branches and configured branching rules, for trainees to leverage to build applications, culminating more than [550 Git contributions within the organization during the 14 week program](https://github.com/Git-Leon?from=2020-10-01&to=2020-10-25&org=platformps&year_list=1) and more than [1800 total Git contributions in the past year](https://github.com/Git-Leon?tab=overview).
 * Managed the group of developers through the development of more than 20 functioning full stack java applications of developers by utilizing GitOps and Cloud Native Application Development practices. Application stacks used some variance of the technologies listed below.
     * Java8, Spring Security, Spring MVC, Spring Boot, Mockito, JSP, ReactJS, Angular
     * AWS S3, AWS EC2, AWS Cloud9, Heroku, Netlify
-* The following is a list in ascending order of delivery date of some of the relevant processes that were covered and applications that were built during the 14-week program in a single lecture (**90 minutes or less**). Demonstration relied heavily on GitOps, TDD and Cloud Native practices; enforcing version-control, portability and testability across each of the developer’s environments. It should be noted that each application, even the creation of the Github repository, was built in front of a live audience of 25 to 30 developers, while polling for and answering questions.
-    * A Unit Testing application built with Maven using JUnit5 testing paradigms and conventions for testing input and output of algorithms;
-        * The intent of building this application for the developers is to demonstrate how to implement proper TDD practices. It is critical that this is presented early to the developer to ensure that each demonstration that follows can be built and then tested appropriately.
-    * A crude database-access application built with Maven using JUnit5 and JDBC to test database connectivity, querying capabilities, and database insertion;
-        * The intent of building this application for the developers is to demonstrate how to leverage Java’s JDBC API to connect to delete, create, and connect to a new connection. The demonstration included how to switch Driver implementation by modifying the `pom.xml` to specify the JDBC driver.
-    * A scalable database-access application built with Maven using JUnit5 and JDBC to test database connectivity querying capabilities and database insertion;
-        * The purpose of demonstrating how to build this application is to assist the developers with establishing how to build an application that leverages strictly JDBC and scales easily by adding more POJO-oriented logic.
-        * The intent of building this application is to prepare the developers for proper application-design and scalability by abiding by SOLID principles and introducing GoF Design Patterns (particularly factories, builders, and singletons).
-        * In the days that follow, the developers witnesses how proper design can scale flexibly. The decision to implement this POJO-oriented logic is to later enforce an entity-driven-design implementation using JPA and again later with a Spring Boot implementation.
-    * A scalable-database access application built with Maven using JUnit5 and JDBC and JPA.
-        * The developers witnesses how the aforementioned application is easily transformed into a JPA project by introducing `persistence.xml` in the `main/resources/META-INF` directory and including a JPA flavor in the `pom.xml`.
-    * A Spring application which exposes basic CRUD operations of a controller managing an entity with implicit @Basic field-types
-        * By leveraging the H2-console, the developers witness the entire development lifecycle of a Spring Boot application beginning with empty tables. As an Entity is defined, the developers immediately view the change in the console.
-        * The developers benefits from viewing this demonstration by witnessing how Beans, EntityManager, IoC container, and Dependency Injection work in the context of Spring
-        * The application is tested and interacted with via Postman
-    * A Spring application with automated tests for Controllers, Services, and Repositories by using BDDMockito
-        * Using Junit & SpringRunner, MockMvc, MockBean, BDDMockito, and Jackson databind, the developers learns how to create automated tests to check the correctness of the web server. This step is critical in the developers’ advancement toward automation. This ensures that each of the applications that follow can be provisioned with automated tested.
-    * A Spring application which exposes CRUD controllers with multi-dependent services and entities with relational cardinality
-        * The developers establishes how to make use of an Entity with a cardinal relation to another Entity (1-1, 1-M, M-M, M-1). Additionally, they view how to inject multiple dependencies from the IoC container into the scope of a dependee.
-    * An Application (Web Server and Web Application) which renders a webpage with content injected from the web server 
-        * This application allows the developers to see how to communicate throughout their entire application-stack: H2 in-memory database, Spring WebServer, JSP  Web Application. 
-    * An Application (Web Server and Web Application) which renders a login page to create and manage User sessions within the system
-        * Using Spring security and the aforementioned technologies, the developers learns how to create an application which enables sign-up, and login features. Additionally, the application manages User sessions for multiple connections and instances.
-    * An Application (Web Server and Web Application) which renders a login page to create and manage User sessions within the system
-        * Using Spring security and the aforementioned technologies, the developers learns how to create an application which enables sign-up, and login features. Additionally, the application manages User sessions for multiple connections and instances.
-    * A continuous integration system (Git, Jenkins, Web Server, Web Application) which fetches a remote repository, builds the application, and runs tests, and reports the results to Jenkins
-    * A demonstration on deploying Spring applications to Heroku
-        * The intent of this demonstration was to provide the developers with a free option for quickly deploying Spring applications onto the cloud.
-    * AWS Elastic Beanstalk deployment process for Spring jars
-        * The intent of this demonstration was to provide the developers with industry standard practice for deploying and managing applications on the cloud. 
 
 ### Remote Curriculum Developer 
 #### Per Scholas
