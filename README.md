@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" media="all" href="./style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="./midnight-style.css" />
 
 # Leon Hunter Public Portfolio
 
@@ -15,15 +15,14 @@
 
 ### Summary
 Experienced Technical Instructor and T-shaped Engineer with a demonstrated history of working managing and up-skilling teams of Junior engineers.
-Highly skilled in Cloud Native Application Development using Java8, Spring, Mockito, and Angular culminating more than 1800 Git contributions in the past year.
+Highly skilled in Cloud Native Application Development using Java8, Spring, Mockito, and Angular culminating  more than [1800 total Git contributions in the past year](https://github.com/Git-Leon?tab=overview).
 Knowledgeable in Cloud Dev Ops using unittest, JUnit5, Selenium, Docker, Kubernetes, Jenkins, and AWS.
 Strong information technology professional with a Bachelor of Science (BS) focused in Computer Science, Mathematics Minor from Delaware State University.
 
 ## Personal Projects
-* more than [1800 total Git contributions in the past year](https://github.com/Git-Leon?tab=overview).
 
 ### Owner and Creator
-#### Curriculeon: The Computing Curriculum
+#### Curriculeon: The Online Computing Curriculum
 * [Curriculeon](https://curriculeon.github.io/Curriculeon/) is a free online portal built in [RevealJs](https://github.com/hakimel/reveal.js/), [Jekyl](https://jekyllrb.com/), and [Github Pages](https://pages.github.com/), which offers free open-source curriculum content for the following courses:
     * Java Web Development
     * Command Line Scripting
@@ -88,7 +87,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 #### Per Scholas: Full Stack Java Engineering Course 
 #### June 2020 – September 2020; Charlotte, NC.
 
-* Ceated more than 65 github repositories, along with branches and configured branching rules, for trainees to leverage to build applications, culminating more than [550 Git contributions within the organization during the 14 week program](https://github.com/Git-Leon?from=2020-10-01&to=2020-10-25&org=platformps&year_list=1) and more than [1800 total Git contributions in the past year](https://github.com/Git-Leon?tab=overview).
+* Ceated more than 65 github repositories, along with branches and configured branching rules, for trainees to leverage to build applications, culminating more than [550 Git contributions within the organization during the 14 week program](https://github.com/Git-Leon?from=2020-10-01&to=2020-10-25&org=platformps&year_list=1).
 * Managed the group of developers through the development of more than 20 functioning full stack java applications of developers by utilizing GitOps and Cloud Native Application Development practices. Application stacks used some variance of the technologies listed below.
     * Java8, Spring Security, Spring MVC, Spring Boot, Mockito, JSP, ReactJS, Angular
     * AWS S3, AWS EC2, AWS Cloud9, Heroku, Netlify
