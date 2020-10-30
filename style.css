@@ -3,6 +3,12 @@ header {
   background-image: none;
   border-bottom-color: rgb(38, 78, 97);
 }
+
+header h1 {
+  color: rgb(97, 202, 255);
+  text-shadow: rgba(24, 26, 27, 0.9) 0px 1px 0px;
+}
+
 a {
   color: rgb(97, 202, 255);
   text-decoration-color: currentcolor;
