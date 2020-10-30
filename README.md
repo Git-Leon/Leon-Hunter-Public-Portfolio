@@ -24,7 +24,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
 ### Owner and Creator
 #### Curriculeon: The Computing Curriculum
-* [Curriculeon](https://curriculeon.github.io/Curriculeon/) is an online portal built in [RevealJs](), [Jekyl](), and [Github Pages](), which offers free open-source curriculum content for the following courses:
+* [Curriculeon](https://curriculeon.github.io/Curriculeon/) is a free online portal built in [RevealJs](https://github.com/hakimel/reveal.js/), [Jekyl](https://jekyllrb.com/), and [Github Pages](https://pages.github.com/), which offers free open-source curriculum content for the following courses:
     * Java Web Development
     * Command Line Scripting
     * GitCli
