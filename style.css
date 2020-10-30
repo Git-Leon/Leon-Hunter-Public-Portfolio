@@ -2,6 +2,13 @@
 h3 {
   color: rgb(103, 234, 169)
 }
+.wrapper {
+  color:#555
+}
+
+body {
+  color: #555
+}
 /* body{
     margin: 0 auto;
     background: #000;
