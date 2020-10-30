@@ -1,4 +1,4 @@
-<!-- <link rel="stylesheet" type="text/css" media="all" href="./midnight-style.css" /> -->
+<!-- <link rel="stylesheet" type="text/css" media="all" href="./style.css" /> -->
 ## About
 
 ### Contact Information
@@ -8,9 +8,9 @@
 * **Phone** - (302) 312-4489
 
 ### Education
-* Delaware State University (2015)
+* Delaware State University (2011 - 2015)
 * Bachelor of Science (BS)
-* Computer Science, Mathematics Minor
+* Computer Science Major, Mathematics Minor
 
 ### Summary
 Experienced Technical Instructor and T-shaped Engineer with a demonstrated history of working managing and up-skilling teams of Junior engineers.
