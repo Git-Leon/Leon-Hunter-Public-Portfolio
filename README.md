@@ -100,6 +100,12 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
 
 
+### Owner and Creator
+#### Java8 Exceptional Functional Interfaces
+* [Exceptional Functional Interfaces](https://github.com/Git-Leon/Exceptional-Functional-Interfaces) is `.jar` deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils) that is used to express code that explicitly throws an `Exception`, without ever explicitly handling it by defering the `try`/`catch` to the respective `FunctionalInterface`'s static `tryInvoke` method.
+* With the advent of [Java 8 Lambdas](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html) and [Method References](https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html), functional programming in java has become increasingly popular.
+* Unfortunately, Java 8 did not account for creating lambda expressions which may throw an `Exception`. This shortcoming has caused a great deal of frustration when developing an exceptional-codebase which should be expressed functionally rather than with object orientation.
+* This library aims to help rememdy the deficiencies of exceptional expressions in Java 8 functional programming.
 
 
 <hr><hr>
