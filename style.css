@@ -13,11 +13,6 @@ header {
   border-bottom-color: rgb(38, 78, 97);
 }
 
-header h1 {
-  color: rgb(83, 189, 202);
-  text-shadow: rgba(24, 26, 27, 0.9) 0px 1px 0px;
-}
-
 header ul li {
   width: 79px;
   float: left;
@@ -27,13 +22,9 @@ header ul li {
   text-shadow: rgba(24, 26, 27, 0.9) 0px 1px 0px;
 }
 
-code, pre {
-  color: rgb(200, 195, 188);
-}
-
-a {
-  color: rgb(97, 202, 255);
-  text-decoration-color: currentcolor;
+header h1 {
+  color: rgb(83, 189, 202);
+  text-shadow: rgba(24, 26, 27, 0.9) 0px 1px 0px;
 }
 
 h2 {
@@ -50,6 +41,16 @@ h4{
 
 h5, h6 {
   color: #00753a
+}
+
+
+code, pre {
+  color: rgb(200, 195, 188);
+}
+
+a {
+  color: rgb(97, 202, 255);
+  text-decoration-color: currentcolor;
 }
 
 .wrapper {
