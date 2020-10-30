@@ -1,3 +1,4 @@
+/* written by Leon Hunter */
 html {
   background-color: #181a1b;
 }
@@ -7,44 +8,50 @@ html {
 }
 
 header {
-  background-color: rgb(7, 58, 81);
+  background-color: rgb(27, 87, 72);
   background-image: none;
   border-bottom-color: rgb(38, 78, 97);
 }
 
 header h1 {
-  color: rgb(97, 202, 255);
+  color: #3aafbe;
   text-shadow: rgba(24, 26, 27, 0.9) 0px 1px 0px;
 }
 
 header ul li {
   width: 79px;
   float: left;
-  border-right: 1px solid #3A7CBE;
-  border-right-color: rgb(42, 90, 138);
+  border-right: 1px solid #3aafbe;
+  border-right-color: rgb(42, 138, 114);
   height: 38px;
-}
-
-a {
-  color: rgb(97, 202, 255);
-  text-decoration-color: currentcolor;
   text-shadow: rgba(24, 26, 27, 0.9) 0px 1px 0px;
-}
-
-h2 {
-  color: rgb(103, 234, 169)
-}
-h3 {
-  color: #159957
-}
-
-h4, h5, h6 {
-  color: rgb(186, 180, 171);
 }
 
 code, pre {
   color: rgb(200, 195, 188);
 }
+
+a {
+  color: rgb(97, 202, 255);
+  text-decoration-color: currentcolor;
+}
+
+h2 {
+  color: rgb(103, 234, 169)
+}
+
+h3 {
+  color: #00c462
+}
+
+h4{
+  color: #00753a
+}
+
+h5, h6 {
+  color: #008d76;
+}
+
 .wrapper {
   color:rgb(178, 172, 162);
   background-color: rgb(43, 46, 48);
