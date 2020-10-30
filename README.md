@@ -3,8 +3,9 @@
 ## About
 
 ### Contact Information
-* **Email**: <a href="mailto:xleonhunter@gmail.com">xleonhunter@gmail.com</a>
-* **Phone**: (302) 312-4489
+* **Phone**: `(302) 312-4489`
+* **Email**: <a href="mailto:xleonhunter@gmail.com">`xleonhunter@gmail.com`</a>
+* **Website:** `https://git-leon.github.io/Leon-Hunter-Public-Portfolio/`
 * **Github Organizations**
     * https://github.com/curriculeon
     * https://github.com/git-leon
