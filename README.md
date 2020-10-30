@@ -80,8 +80,8 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
 
 ### Owner and Creator
-#### Opencvl.jar: A Selenium and ExtentReport Wrapper Library
-* [Opencvl](https://github.com/Git-Leon/opencvl) is an [uber jar](https://curriculeon.github.io/Curriculeon/lectures/java/build-automation/maven/uber-jar&maven-hosting/content.html) deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils/) that is used to ease OpenCV build configuration and application development.
+#### OpenCVL.jar: A Selenium and ExtentReport Wrapper Library
+* [OpenCVL](https://github.com/Git-Leon/opencvl) is an [uber jar](https://curriculeon.github.io/Curriculeon/lectures/java/build-automation/maven/uber-jar&maven-hosting/content.html) deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils/) that is used to ease OpenCV build configuration and application development.
 * The library includes mechanisms for
     * [a factory class for dynamically fetching haarcascade classififers](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/utils/CascadeClassifierFactory.java)
     * [face detection interface](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/facedetector/FaceDetectorInterface.java)
