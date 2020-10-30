@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" media="all" href="./style.css" />
+
 ## About
 
 ### Contact Information
@@ -280,5 +282,3 @@ The course was taught using a stack of Maven, SpringBoot, MySql, Angular and Her
 
 * Aided students with completing programs developed in java.
 * Assisted students with conceptualizing and understanding programming logic.
-
-<link rel="stylesheet" type="text/css" media="all" href="./style.css" />
