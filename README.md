@@ -70,7 +70,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
 ### Owner and Creator
 #### Leonium.jar: A Selenium and ExtentReport Wrapper Library
-* Leonium is an [uber jar]() deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils/) that is used to automate Selenium build configuration and script development.
+* [Leonium](https://github.com/Git-Leon/leonium) is an [uber jar]() deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils/) that is used to automate Selenium build configuration and script development.
 * The library includes [an embedded `.jar` used for dynamically downloading driver binaries](https://github.com/bonigarcia/webdrivermanager)
     * This allows this framework to run `GeckoDriver`, `ChromeDriver`, `PhantomDriver`, `HtmlUnitDriver` without downloading any external dependencies
 * The library also includes mechanisms for
@@ -81,7 +81,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
 ### Owner and Creator
 #### Opencvl.jar: A Selenium and ExtentReport Wrapper Library
-* Opencvl is an [uber jar](https://curriculeon.github.io/Curriculeon/lectures/java/build-automation/maven/uber-jar&maven-hosting/content.html) deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils/) that is used to ease OpenCV build configuration and application development.
+* [Opencvl](https://github.com/Git-Leon/opencvl) is an [uber jar](https://curriculeon.github.io/Curriculeon/lectures/java/build-automation/maven/uber-jar&maven-hosting/content.html) deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils/) that is used to ease OpenCV build configuration and application development.
 * The library includes mechanisms for
     * [a factory class for dynamically fetching haarcascade classififers](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/utils/CascadeClassifierFactory.java)
     * [face detection interface](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/facedetector/FaceDetectorInterface.java)
@@ -92,13 +92,12 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
 ### Owner and Creator
 #### JFoot.jar: A Greenfoot Wrapper Library
-* Opencvl is an [uber jar](https://curriculeon.github.io/Curriculeon/lectures/java/build-automation/maven/uber-jar&maven-hosting/content.html) deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils/) that is used to ease OpenCV build configuration and application development.
+* [Jfoot](https://github.com/Git-Leon/jfoot-api) is an [uber jar](https://curriculeon.github.io/Curriculeon/lectures/java/build-automation/maven/uber-jar&maven-hosting/content.html) deployed on [packagecloud.io](https://packagecloud.io/git-leon/) that is used to make Greenfoot applications with Maven.
 * The library includes mechanisms for
-    * [a factory class for dynamically fetching haarcascade classififers](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/utils/CascadeClassifierFactory.java)
-    * [face detection interface](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/facedetector/FaceDetectorInterface.java)
-    * [default face detection implementation with CascadeClassifier dependency injection support](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/facedetector/FaceDetector.java)
-    * [face detection builder class](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/facedetector/FaceDetectorBuilder.java)
-    * [face detection factory class](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/facedetector/FaceDetectorFactory.java)
+    * converting greenfoot applications to maven applications
+    * [helper interfaces for building games](https://github.com/Git-Leon/jfoot-api/tree/master/src/main/java/com/github/git_leon/jfoot)
+    * [small gravity physics engine](https://github.com/Git-Leon/jfoot-api/tree/master/src/main/java/com/github/git_leon/jfoot/sprite/physics/gravity)
+
 
 
 
