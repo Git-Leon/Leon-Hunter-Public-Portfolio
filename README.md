@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 
-_Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/master/Leon-Hunter-Public-Portfolio.pdf) to download the `.pdf!`._
+_Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/master/Leon-Hunter-Public-Portfolio.pdf) to download the_ `.pdf`!
 
 # Senior Cloud Native Application Developer
 # Junior Cloud DevOps Engineer
