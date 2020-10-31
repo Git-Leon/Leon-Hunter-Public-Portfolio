@@ -43,7 +43,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     * Cloud Computing & Cloud Infrastructure
     * Development Operations - (DevOps)
 
-* The following is a list in ascending order of delivery date of some of the relevant processes that were covered and applications that were built during a 14-week program in a single lecture (**90 minutes or less**). Demonstrations relied heavily on GitOps, TDD and Cloud Native practices; enforcing version-control, portability and testability across each of the developer’s environments. It should be noted that each application, even the creation of the Github repository, was built in front of a live audience of 25 to 30 developers, while polling for and answering questions.
+* The following is a list in ascending order of delivery date of some of the relevant processes that were covered and applications that were built during a 14-week program in a single lecture (**90 minutes or less**). Demonstrations relied heavily on git, TDD and Cloud Native practices; enforcing version-control, continuous deployment, portability, and testability across each of the developer’s environments. It should be noted that each application, even the creation of the Github repository, was built in front of a live audience of 25 to 30 developers, while polling for and answering questions.
     * A [simple JUnit Testing application](https://github.com/curriculeon/maven.java-fundamentals) built with Maven using JUnit5 testing paradigms and conventions for testing input and output of algorithms;
         * The intent of building this application for the developers is to demonstrate how to implement proper TDD practices. It is critical that this is presented early to the developer to ensure that each demonstration that follows can be built and then tested appropriately.
     * A [crude database-access application](https://github.com/curriculeon/jdbc.project-template) built with Maven using JUnit5 and JDBC to test database connectivity, querying capabilities, and database insertion;
@@ -144,8 +144,8 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 #### Per Scholas: Full Stack Java Engineering Course 
 ##### June 2020 – September 2020; Charlotte, NC.
 
-* Ceated more than 65 github repositories, along with branches and configured branching rules, for trainees to leverage to build applications, culminating more than [550 Git contributions within the organization during the 14 week program](https://github.com/Git-Leon?from=2020-10-01&to=2020-10-25&org=platformps&year_list=1).
-* Managed the group of developers through the development of more than 20 functioning full stack java applications of developers by utilizing GitOps and Cloud Native Application Development practices. Application stacks used some variance of the technologies listed below.
+* Created more than 65 github repositories, along with branches and configured branching rules, for trainees to leverage to build applications, culminating more than [550 Git contributions within the organization during the 14 week program](https://github.com/Git-Leon?from=2020-10-01&to=2020-10-25&org=platformps&year_list=1).
+* Managed the group of developers through the development of more than 20 functioning full stack java applications of developers by utilizing Git and Cloud Native Application Development practices. Application stacks used some variance of the technologies listed below.
     * Java8, Spring Security, Spring MVC, Spring Boot, Mockito, JSP, ReactJS, Angular
     * AWS S3, AWS EC2, AWS Cloud9, Heroku, Netlify
 
@@ -205,7 +205,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
 * Contracted through ZipCodeWilmington, I served as a technical Java instructor teaching web-development to JP Morgan’s incoming, and transitioning developers located in Glasgow, Scotland.
 * The course was an intense 12 week training program mocking a real-world developer environment by enforcing collaboration strictly through Github, and enforcing 12 factor configuration methodologies such as leveraging Maven for dependency management and environment variables for application configuration.
-The course was taught using a stack of Maven, SpringBoot, MySql, Angular and Heroku
+The course was taught using a stack of Maven, SpringBoot, MySQL, Angular and Heroku
 
 ### Contractor; Lead Technical Instructor
 #### JPMorgan Chase & Co.
@@ -213,7 +213,7 @@ The course was taught using a stack of Maven, SpringBoot, MySql, Angular and Her
 
 * Contracted through ZipCodeWilmington, I served as the technical Lead Java instructor teaching web-development to JP Morgan’s incoming, and transitioning developers.
 * The course was an intense 12 week training program mocking a real-world developer environment by enforcing collaboration strictly through Github, and enforcing 12 factor configuration methodologies such as leveraging Maven for dependency management and environment variables for application configuration.
-The course was taught using a stack of Maven, SpringBoot, MySql, Angular and Heroku.
+The course was taught using a stack of Maven, SpringBoot, MySQL, Angular and Heroku.
 
 ### Lead Technical Instructor
 #### Zip Code Wilmington
@@ -230,7 +230,7 @@ The course was taught using a stack of Maven, SpringBoot, MySql, Angular and Her
 
 * Contracted through ZipCodeWilmington, I served as a technical Java instructor teaching web-development to JP Morgan’s incoming, and transitioning developers.
 * The course was an intense 12 week training program mocking a real-world developer environment by enforcing collaboration strictly through Github, and enforcing 12 factor configuration methodologies such as leveraging Maven for dependency management and environment variables for application configuration.
-The course was taught using a stack of Maven, SpringBoot, MySql, Angular and Heroku.
+The course was taught using a stack of Maven, SpringBoot, MySQL, Angular and Heroku.
 
 ### Technical Instructor
 #### Zip Code Wilmington
@@ -248,7 +248,7 @@ The course was taught using a stack of Maven, SpringBoot, MySql, Angular and Her
 * As a test automation engineer, I was responsible for the implementing a WebCrawling framework for UI automation scripts and error reporting.
 * The application was implemented using Selenium, Selenium Grid, SauceLabs, TestNG, and Extent Reporting.
 
-### Optical Science Center for Applied Research (OSCAR) Undergraduate Researcher
+### Undergraduate Researcher
 #### Delaware State University
 ##### August 2015 – December 2015; Dover, DE.
 
