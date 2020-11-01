@@ -249,7 +249,7 @@ The course was taught using a stack of Maven, SpringBoot, MySQL, Angular and Her
 * The application was implemented using Selenium, Selenium Grid, SauceLabs, TestNG, and Extent Reporting.
 
 ### Undergraduate Researcher
-#### Delaware State University
+#### Optical Science Center for Applied Research (OSCAR)
 ##### August 2015 – December 2015; Dover, DE.
 
 * The objective of this project was to develop a genetic algorithm to control a spatial light modulator (SLM) used for shaping the profile of a laser beam.
@@ -257,7 +257,7 @@ The course was taught using a stack of Maven, SpringBoot, MySQL, Angular and Her
 * Interfaced MatLAB with LabVIEW software.
 
 ### Operations Leadership Intern
-#### Discover
+#### Discover Financial
 ##### June 2015 – August 2015; New Castle, DE.
 
 * Implemented BEST QCAS Access Database.
@@ -271,14 +271,14 @@ The course was taught using a stack of Maven, SpringBoot, MySQL, Angular and Her
 * Aided students with completing projects developed in python & java.
 * Assisted with understanding of programming logic.
 
-### SMILE Undergraduate Researcher
+### Undergraduate Researcher
 #### National Science Foundation (NSF)
 ##### May 2013 – May 2014; Dover, DE.
 
 * The objective of this research was to develop a system that would aid in the prevention of catastrophic medical events through persistent intelligent monitoring and early-warning alerting.
 * Created interactive electronics using Arduino open-source prototyping platform.
 * Coded in C++ to manipulate Arduino microcontroller and eHealth sensor shield.
-* [Developed poster presentation for 2014 SMILE Undergraduate Summer Research Symposium](http://www.garyholness.com/LeonHunterERNPoster.pdf).
+* [Presented research](http://www.garyholness.com/LeonHunterERNPoster.pdf) for 2014 Science and Math Investigative Learning Experiences Program (SMILE) Undergraduate Summer Research Symposium.
 * Presented at 2014 ERN (Emerging Researchers National) conference.
 
 ### Programming Tutor
