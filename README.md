@@ -144,7 +144,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 #### Per Scholas: Full Stack Java Engineering Course 
 ##### June 2020 – September 2020; Charlotte, NC.
 
-* Created more than 65 github repositories, along with branches and configured branching rules, for trainees to leverage to build applications, culminating more than [550 Git contributions within the organization during the 14 week program](https://github.com/Git-Leon?from=2020-10-01&to=2020-10-25&org=platformps&year_list=1).
+* Created more than 65 github repositories, along with branches and configured branching rules, for trainees to leverage to build applications, cumulating more than [550 Git contributions within the organization during the 14 week program](https://github.com/Git-Leon?from=2020-10-01&to=2020-10-25&org=platformps&year_list=1).
 * Managed the group of developers through the development of more than 20 functioning full stack java applications of developers by utilizing Git and Cloud Native Application Development practices. Application stacks used some variance of the technologies listed below.
     * Java8, Spring Security, Spring MVC, Spring Boot, Mockito, JSP, ReactJS, Angular
     * AWS S3, AWS EC2, AWS Cloud9, Heroku, Netlify
@@ -174,7 +174,6 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 * The following APIs were leverages for additional features:
     * PrintfulCountry API
     * MailChimp API
-* Today, the application has new management and a new team working on the application.
 
 ### Lead Technical Instructor 
 #### Per Scholas: Full Stack Java Engineering Course
