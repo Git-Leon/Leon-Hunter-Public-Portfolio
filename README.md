@@ -118,7 +118,12 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 <hr><hr>
 
 ## Experience:
-### (Upcoming) Remote Lead Technical Instructor 
+### Remote Lead Technical Instructor 
+#### Talent Path: Cloud DevOps Engineering Course
+##### November 2020 – November 2020
+* Leveraged Git, Zoom, Slack to manage a group of developers through the development of core-java applications.
+
+### Remote Lead Technical Instructor 
 #### Per Scholas: Cloud DevOps Engineering Course
 ##### November 2020 – February 2021; Boston, MA.
 
