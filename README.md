@@ -119,7 +119,20 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
 ## Experience:
 ### Remote Lead Technical Instructor 
-#### Talent Path: Cloud DevOps Engineering Course
+#### Per Scholas: Cloud DevOps Engineering Course
+##### November 2020 – February 2021; Boston, MA.
+
+* Remotely leading a group of 30 aspiring engineers through a Cloud DevOps environment.
+* teaching the following topics through live-demonstrations to an audience of 25 in daily Zoom meetings:
+    * GitOps, Git, Shell scripting, SQL / DBMS, TDD, Python Scripting
+    * Cloud Infrastructure, Cloud Security
+    * CI / CD, Nginx, Build Management
+    * Deployment and Jenkins Pipeline
+    * Docker and Kubernetes
+    * AWS Terraform, AWS ECS, AWS EKS, AWS Lightsail, AWS EC2, AWS Cloud9
+
+### Remote Lead Technical Instructor 
+#### Talent Path: Full Stack Java Engineering Course
 ##### November 2020 – December 2020
 * Using Git, Zoom, Slack to manage a group of developers through the development of Java Web-applications.
 * Leveraging Curriculeon [curriculum lectures](https://curriculeon.github.io/Curriculeon/) and [curriculum exercises](https://github.com/curriculeon) to launch learners into an immediately immersive development environment to enforce a deploy-on-day-1 culture.
@@ -134,19 +147,6 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     * A [system of classes](https://github.com/curriculeon/maven_learnerlab) enforcing several singleton design-pattern implementations, repository design pattern implementation, and decorator design pattern implementation.
         * The purpose of building this application was to demonstrate the purpose of scalable design decisions and how cutting corners in design can create technical debt and violations of DRY.
     * _More content will be delivered as the course continues_
-
-### Remote Lead Technical Instructor 
-#### Per Scholas: Cloud DevOps Engineering Course
-##### November 2020 – February 2021; Boston, MA.
-
-* Remotely leading a group of 30 aspiring engineers through a Cloud DevOps environment.
-* teaching the following topics through live-demonstrations to an audience of 25 in daily Zoom meetings:
-    * GitOps, Git, Shell scripting, SQL / DBMS, TDD, Python Scripting
-    * Cloud Infrastructure, Cloud Security
-    * CI / CD, Nginx, Build Management
-    * Deployment and Jenkins Pipeline
-    * Docker and Kubernetes
-    * AWS Terraform, AWS ECS, AWS EKS, AWS Lightsail, AWS EC2, AWS Cloud9
 
 ### Remote Curriculum Developer 
 #### Per Scholas: Cloud DevOps Engineering
