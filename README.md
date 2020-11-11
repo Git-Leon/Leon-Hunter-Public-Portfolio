@@ -122,7 +122,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 #### Talent Path: Cloud DevOps Engineering Course
 ##### November 2020 – November 2020
 * Using Git, Zoom, Slack to manage a group of developers through the development of Java Web-applications.
-* Leveraging Curriculeon [curriculum lectures]() and [curriculum assets]() to launch students into an immediately immersive development environment to enforce a deploy-on-day-1 culture.
+* Leveraging Curriculeon [curriculum lectures](https://curriculeon.github.io/Curriculeon/) and [curriculum exercises](https://github.com/curriculeon) to launch students into an immediately immersive development environment to enforce a deploy-on-day-1 culture.
 * Learners receive morning lectures from the curriculum, then exercises from the curriculum to complement the lecture.
 * The following is a list in ascending order of delivery date of some of the relevant processes that were covered and applications that were built during a 14-week program in a single lecture (**90 minutes or less**). Demonstrations relied heavily on git, TDD and Cloud Native practices; enforcing version-control, portability, and testability across each of the developer’s environments. It should be noted that each application, even the creation of the Github repository, was built in front of a live audience of 25 to 30 developers, while polling for and answering questions.
     * A [simple JUnit Testing application](https://github.com/curriculeon/maven.java-fundamentals) built with Maven using JUnit5 testing paradigms and conventions for testing input and output of algorithms;
