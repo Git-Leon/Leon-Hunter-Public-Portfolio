@@ -120,34 +120,20 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 ## Experience:
 ### Remote Lead Technical Instructor 
 #### Talent Path: Cloud DevOps Engineering Course
-##### November 2020 – November 2020
+##### November 2020 – December 2020
 * Using Git, Zoom, Slack to manage a group of developers through the development of Java Web-applications.
-* Leveraging Curriculeon [curriculum lectures](https://curriculeon.github.io/Curriculeon/) and [curriculum exercises](https://github.com/curriculeon) to launch students into an immediately immersive development environment to enforce a deploy-on-day-1 culture.
+* Leveraging Curriculeon [curriculum lectures](https://curriculeon.github.io/Curriculeon/) and [curriculum exercises](https://github.com/curriculeon) to launch learners into an immediately immersive development environment to enforce a deploy-on-day-1 culture.
 * Learners receive morning lectures from the curriculum, then exercises from the curriculum to complement the lecture.
-* The following is a list in ascending order of delivery date of some of the relevant processes that were covered and applications that were built during a 15-day program in a single lecture (**60 minutes or less**). Demonstrations relied heavily on git, TDD and Cloud Native practices; enforcing version-control, portability, and testability across each of the developer’s environments. It should be noted that each application, even the creation of the Github repository, was built in front of a live audience of 6, while polling for and answering questions.
-    * A [simple JUnit Testing application](https://github.com/curriculeon/maven.java-fundamentals) built with Maven using JUnit5 testing paradigms and conventions for testing input and output of algorithms;
-        * The intent of building this application for the developers is to demonstrate how to implement proper TDD practices. It is critical that this is presented early to the developer to ensure that each demonstration that follows can be built and then tested appropriately.
+* The following is a list in ascending order of delivery date of some of the relevant content presented to learners.
+    * A [Java assessment](https://github.com/curriculeon/maven.numbers-triangles-tables) built with Maven using JUnit5 testing paradigms and conventions for testing input and output of algorithms;
+        * The intent of building this application for the developers is to demonstrate how to implement proper TDD practices. It is critical that this is presented early to the developer to ensure that each demonstration that follows can be built and then tested appropriately. This also gives the instructor the opportunity to gauge the classes aptitude. With this group, it was the case that they had strong understanding of the Spring framework, but poor understanding of Object Orientation, Design Principles, and Design Patterns. After making this discovery, the focus was to upskill the learners in the aforementioned areas.
     * A [Spring application](https://github.com/curriculeon/spring_projecttemplate) which exposes basic CRUD operations of a controller managing an entity with implicit @Basic field-types
         * By leveraging the H2-console, the developers witness the entire development lifecycle of a Spring Boot application beginning with empty tables. As an Entity is defined, the developers immediately view the change in the console.
         * The developers benefits from viewing this demonstration by witnessing how Beans, EntityManager, IoC container, and Dependency Injection work in the context of Spring
         * The application is tested and interacted with via Postman
-    * A [Spring application](https://github.com/curriculeon/spring.mockito_muffinmaker) with automated tests for Controllers, Services, and Repositories by using BDDMockito
-        * Using Junit & SpringRunner, MockMvc, MockBean, BDDMockito, and Jackson databind, the developers learns how to create automated tests to check the correctness of the web server. This step is critical in the developers’ advancement toward automation. This ensures that each of the applications that follow can be provisioned with automated tested.
-    * A [Spring application]() which exposes CRUD controllers with multi-dependent services and entities with relational cardinality
-        * The developers establishes how to make use of an Entity with a cardinal relation to another Entity (1-1, 1-M, M-M, M-1). Additionally, they view how to inject multiple dependencies from the IoC container into the scope of a dependee.
-    * A [Spring Web Server and JSP Web Application]() which renders a webpage with content injected from the web server 
-        * This application allows the developers to see how to communicate throughout their entire application-stack: H2 in-memory database, Spring WebServer, JSP  Web Application. 
-    * A [Spring Web Server and JSP Web Application]() which renders a login page to create and manage User sessions within the system
-        * Using Spring security and the aforementioned technologies, the developers learns how to create an application which enables sign-up, and login features. Additionally, the application manages User sessions for multiple connections and instances.
-    * A [Spring Web Server and ReactJS Web Application](https://github.com/curriculeon/spring.react_projecttemplate) which allows a client to add and view ReactJS Web application which renders a list of customers fetched from a Spring Web Server
-        * The purpose of building this application is to demonstrate how microserver architecture allows us to easily swap implementations of a layer of the stack
-    * A [Spring Web Server and Angular6 Web Application](https://github.com/curriculeon/spring.angular_projecttemplate) (Spring Web Server and Angular6 Web Application) which allows a client to add and view a list of customers fetched from a Spring Web Server
-        * The purpose of building this application is to further expound how microserver architecture allows us to easily swap implementations of a layer of the stack
-    * A [continuous integration system]() (Git, TravisCI, JUnit5, Maven) which fetches a remote repository, builds the application, and runs tests, and reports the results to TravisCI
-        * The intent of building this system is to demonstrate how to create an automated pipeline for continuous integration and continuous delivery
-    * A [demonstration of containerizing Spring jars](https://curriculeon.github.io/Curriculeon/lectures/cloud/docker/dockerize-jar-application/lecture.html#/1/1)
-        * This demonstration allows developers to learn how to containerize applications using Docker with the intent to deploy the application in the most portable way possible.
-    * A [demonstration of deploying Spring jars to AWS Elastic Beanstalk](https://curriculeon.github.io/Curriculeon/lectures/cloud/aws/aws-elastic-beanstalk_deploying-maven-springboot-to/deploy-springboot-to-aws/lecture.html)
+    * A [system of classes](https://github.com/curriculeon/maven_learnerlab) enforcing several singleton design-pattern implementations, repository design pattern implementation, and decorator design pattern implementation.
+        * The purpose of building this application was to demonstrate the purpose of scalable design decisions and how cutting corners in design can create technical debt and violations of DRY.
+    * _More content will be delivered as the course continues_
 
 ### Remote Lead Technical Instructor 
 #### Per Scholas: Cloud DevOps Engineering Course
@@ -217,7 +203,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 #### CodeDifferently
 ##### July 2019 – November 2019; Wilmington, DE.
 
-* As the Lead Curriculum Developer, responsibilities include technically instructing students, designing exercises and solutions, as well as managing 3-person development team.
+* As the Lead Curriculum Developer, responsibilities include technically instructing learners, designing exercises and solutions, as well as managing 3-person development team.
 * Created lesson plans, lecture sequences, and architected teaching material via abstractions of reusable content
 
 ### Lead Curriculum Developer
@@ -298,7 +284,7 @@ The course was taught using a stack of Maven, SpringBoot, MySQL, Angular and Her
 #### Delaware State University
 ##### January 2015 – May 2015; Dover, DE.
 
-* Aided students with completing projects developed in python & java.
+* Aided learners with completing projects developed in python & java.
 * Assisted with understanding of programming logic.
 
 ### Undergraduate Researcher
@@ -315,5 +301,5 @@ The course was taught using a stack of Maven, SpringBoot, MySQL, Angular and Her
 #### Delaware State University
 ##### January 2013 – May 2013; Dover, DE.
 
-* Aided students with completing programs developed in java.
-* Assisted students with conceptualizing and understanding programming logic.
+* Aided learners with completing programs developed in java.
+* Assisted learners with conceptualizing and understanding programming logic.
