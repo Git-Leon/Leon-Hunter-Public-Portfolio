@@ -23,7 +23,7 @@ _Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/maste
 
 ### Summary
 Experienced T-shaped Engineer and Technical Instructor with a demonstrated history of managing and up-skilling teams of Junior engineers.
-Highly skilled in Cloud Native Application Development using Java8, Spring, Mockito, and Angular cumulating  more than [2000 total Git contributions in the past year](https://github.com/Git-Leon?tab=overview).
+Highly skilled in Cloud Native Application Development using Java8, Spring, Mockito, and Angular cumulating  more than [2500 total Git contributions in the past year](https://github.com/Git-Leon?tab=overview#year-link-2020).
 Knowledgeable in Cloud Dev Ops using unittest, JUnit5, Selenium, Docker, Kubernetes, Jenkins, and AWS.
 Strong information technology professional with a Bachelor of Science (BS) focused in Computer Science, Mathematics Minor from Delaware State University.
 
