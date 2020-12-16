@@ -132,21 +132,13 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     * AWS Terraform, AWS ECS, AWS EKS, AWS Lightsail, AWS EC2, AWS Cloud9
 
 ### Remote Lead Technical Instructor 
-#### Talent Path: Full Stack Java Engineering Course
+#### TalentPath: Full Stack Java Engineering Course
 ##### November 2020 – December 2020
 * Using Git, Zoom, Slack to manage a group of developers through the development of Java Web-applications.
-* Leveraging Curriculeon [curriculum lectures](https://curriculeon.github.io/Curriculeon/) and [curriculum exercises](https://github.com/curriculeon) to launch learners into an immediately immersive development environment to enforce a deploy-on-day-1 culture.
+* Leveraged Curriculeon [curriculum lectures](https://curriculeon.github.io/Curriculeon/) and [curriculum exercises](https://github.com/curriculeon) to launch learners into an immediately immersive development environment to enforce a deploy-on-day-1 culture.
 * Learners receive morning lectures from the curriculum, then exercises from the curriculum to complement the lecture.
-* The following is a list in ascending order of delivery date of some of the relevant content presented to learners.
-    * A [Java assessment](https://github.com/curriculeon/maven.numbers-triangles-tables) built with Maven using JUnit5 testing paradigms and conventions for testing input and output of algorithms;
-        * The intent of building this application for the developers is to demonstrate how to implement proper TDD practices. It is critical that this is presented early to the developer to ensure that each demonstration that follows can be built and then tested appropriately. This also gives the instructor the opportunity to gauge the classes aptitude. With this group, it was the case that they had strong understanding of the Spring framework, but poor understanding of Object Orientation, Design Principles, and Design Patterns. After making this discovery, the focus was to upskill the learners in the aforementioned areas.
-    * A [Spring application](https://github.com/curriculeon/spring_projecttemplate) which exposes basic CRUD operations of a controller managing an entity with implicit @Basic field-types
-        * By leveraging the H2-console, the developers witness the entire development lifecycle of a Spring Boot application beginning with empty tables. As an Entity is defined, the developers immediately view the change in the console.
-        * The developers benefits from viewing this demonstration by witnessing how Beans, EntityManager, IoC container, and Dependency Injection work in the context of Spring
-        * The application is tested and interacted with via Postman
-    * A [system of classes](https://github.com/curriculeon/maven_learnerlab) enforcing several singleton design-pattern implementations, repository design pattern implementation, and decorator design pattern implementation.
-        * The purpose of building this application was to demonstrate the purpose of scalable design decisions and how cutting corners in design can create technical debt and violations of DRY.
-    * _More content will be delivered as the course continues_
+* The full curriculum contrived for the contract can be found [here](https://docs.google.com/spreadsheets/d/1xtzMGo5nuQgsfi0Aw_1NxCtZpWkkKQQ8vjh2E20G-Sg/edit?usp=sharing).
+
 
 ### Remote Curriculum Developer 
 #### Per Scholas: Cloud DevOps Engineering
