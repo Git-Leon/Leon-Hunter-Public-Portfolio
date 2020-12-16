@@ -135,7 +135,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 #### TalentPath: Full Stack Java Engineering Course
 ##### November 2020 – December 2020
 * Using Git, Zoom, Slack to manage a group of developers through the development of Java Web-applications.
-* Leveraged Curriculeon [curriculum lectures](https://curriculeon.github.io/Curriculeon/) and [curriculum exercises](https://github.com/curriculeon) to launch learners into an immediately immersive development environment to enforce a deploy-on-day-1 culture.
+* Leveraged Curriculeon [curriculum lectures](https://curriculeon.github.io/Curriculeon/) and [curriculum exercises](https://github.com/curriculeon) to [create an adhoc curriculum](https://docs.google.com/spreadsheets/d/1xtzMGo5nuQgsfi0Aw_1NxCtZpWkkKQQ8vjh2E20G-Sg/edit?usp=sharing) to launch learners into an immediately immersive development environment to enforce a deploy-on-day-1 culture.
 * Learners receive morning lectures from the curriculum, then exercises from the curriculum to complement the lecture.
 * The full curriculum contrived for the contract can be found [here](https://docs.google.com/spreadsheets/d/1xtzMGo5nuQgsfi0Aw_1NxCtZpWkkKQQ8vjh2E20G-Sg/edit?usp=sharing).
 
