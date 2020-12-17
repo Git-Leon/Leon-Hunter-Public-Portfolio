@@ -23,20 +23,11 @@ header ul li {
 }
 
 th {
-  color: rgb(83, 189, 202);
-  text-shadow: rgba(24, 26, 27, 0.9) 0px 1px 0px;
+  color: #00c462;
 }
 
 tr {
   color: rgb(83, 189, 202);
-}
-
-tr {
-  color: rgb(103, 234, 169)
-}
-
-tr {
-  color: #00c462
 }
 
 h4 {
