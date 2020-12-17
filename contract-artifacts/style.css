@@ -22,24 +22,24 @@ header ul li {
   text-shadow: rgba(24, 26, 27, 0.9) 0px 1px 0px;
 }
 
-header h1 {
+th {
   color: rgb(83, 189, 202);
   text-shadow: rgba(24, 26, 27, 0.9) 0px 1px 0px;
 }
 
-h1 {
+tr {
   color: rgb(83, 189, 202);
 }
 
-h2 {
+tr {
   color: rgb(103, 234, 169)
 }
 
-h3 {
+tr {
   color: #00c462
 }
 
-h4{
+h4 {
   color: #008d76;
 }
 
