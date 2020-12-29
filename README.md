@@ -60,21 +60,19 @@ Strong information technology professional with a Bachelor of Science (BS) focus
         * The application is tested and interacted with via Postman
     * A [Spring application](https://github.com/curriculeon/spring.mockito_muffinmaker) with automated tests for Controllers, Services, and Repositories by using BDDMockito
         * Using Junit & SpringRunner, MockMvc, MockBean, BDDMockito, and Jackson databind, the developers learns how to create automated tests to check the correctness of the web server. This step is critical in the developers’ advancement toward automation. This ensures that each of the applications that follow can be provisioned with automated tested.
-    * A [Spring application]() which exposes CRUD controllers with multi-dependent services and entities with relational cardinality
+    * A [Spring application](https://github.com/curriculeon/sql.my-first-query) which exposes CRUD controllers with multi-dependent services and entities with relational cardinality
         * The developers establishes how to make use of an Entity with a cardinal relation to another Entity (1-1, 1-M, M-M, M-1). Additionally, they view how to inject multiple dependencies from the IoC container into the scope of a dependee.
-    * A [Spring Web Server and JSP Web Application]() which renders a webpage with content injected from the web server 
-        * This application allows the developers to see how to communicate throughout their entire application-stack: H2 in-memory database, Spring WebServer, JSP  Web Application. 
-    * A [Spring Web Server and JSP Web Application]() which renders a login page to create and manage User sessions within the system
+    * A [Spring Web Server and JSP Web Application](https://github.com/curriculeon/spring.jsp_loginpage) which renders a login page to create and manage User sessions within the system
         * Using Spring security and the aforementioned technologies, the developers learns how to create an application which enables sign-up, and login features. Additionally, the application manages User sessions for multiple connections and instances.
     * A [Spring Web Server and ReactJS Web Application](https://github.com/curriculeon/spring.react_projecttemplate) which allows a client to add and view ReactJS Web application which renders a list of customers fetched from a Spring Web Server
         * The purpose of building this application is to demonstrate how microserver architecture allows us to easily swap implementations of a layer of the stack
     * A [Spring Web Server and Angular6 Web Application](https://github.com/curriculeon/spring.angular_projecttemplate) (Spring Web Server and Angular6 Web Application) which allows a client to add and view a list of customers fetched from a Spring Web Server
         * The purpose of building this application is to further expound how microserver architecture allows us to easily swap implementations of a layer of the stack
-    * A [continuous integration system]() (Git, Jenkins, Web Server, Web Application) which fetches a remote repository, builds the application, and runs tests, and reports the results to Jenkins
+    * A [continuous integration system](https://curriculeon.github.io/Curriculeon/lectures/ci-cd/jenkins/my-first-maven-pipeline/content.html) (Git, Jenkins, Web Server, Web Application) which fetches a remote repository, builds the application, and runs tests, and reports the results to Jenkins
         * The intent of building this system is to demonstrate how to create an automated pipeline for continuous integration and continuous delivery
     * A [demonstration of containerizing Spring jars](https://curriculeon.github.io/Curriculeon/lectures/cloud/docker/dockerize-jar-application/lecture.html#/1/1)
         * This demonstration allows developers to learn how to containerize applications using Docker with the intent to deploy the application in the most portable way possible.
-    * A [demonstration of deploying Spring jars to AWS Elastic Beanstalk](https://curriculeon.github.io/Curriculeon/lectures/cloud/aws/aws-elastic-beanstalk_deploying-maven-springboot-to/deploy-springboot-to-aws/lecture.html)
+    * A [demonstration of deploying Spring jars to AWS Elastic Beanstalk](https://curriculeon.github.io/Curriculeon/lectures/cloud/aws/aws-elastic-beanstalk_deploying-maven-springboot-to/deploy-springboot-to-aws/content.html)
         * The intent of this demonstration was to provide the developers with industry standard practice for deploying and managing applications on the cloud.
 
 ### Owner and Creator
