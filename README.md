@@ -10,8 +10,9 @@ _Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/maste
 ### Contact Information
 * **Phone**: `(302) 312-4489`
 * **Email**: <a href="mailto:xleonhunter@gmail.com">`xleonhunter@gmail.com`</a>
-* **Website:** <a href="https://git-leon.github.io/Leon-Hunter-Public-Portfolio/">`https://git-leon.github.io/Leon-Hunter-Public-Portfolio`</a>
-* **LinkedIn:** <a href="">`https://www.linkedin.com/in/leon-hunter-3230408b`</a>
+* **Website:**
+    * [https://curriculeon.github.io/Curriculeon/courses/new-content/](https://curriculeon.github.io/Curriculeon/courses/new-content/)
+* **LinkedIn:** [https://www.linkedin.com/in/leon-hunter-3230408b](https://www.linkedin.com/in/leon-hunter-3230408b)
 * **Github Organization Ownership**
     * `https://github.com/curriculeon`
     * `https://github.com/git-leon`
@@ -34,7 +35,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
 ### Owner and Creator
 #### Curriculeon: The Online Coding Curriculum
-* [Curriculeon](https://curriculeon.github.io/Curriculeon/) is an online curriculum built in [RevealJs](https://github.com/hakimel/reveal.js/), [Jekyll](https://jekyllrb.com/), and [Github Pages](https://pages.github.com/), which offers free open-source learning content for the following topics:
+* [Curriculeon](https://curriculeon.github.io/Curriculeon/courses/new-content/) is an online curriculum built in [RevealJs](https://github.com/hakimel/reveal.js/), [Jekyll](https://jekyllrb.com/), and [Github Pages](https://pages.github.com/), which offers free open-source learning content for the following topics:
     * Java Web Development
     * Command Line Scripting
     * GitCli
