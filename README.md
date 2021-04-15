@@ -44,38 +44,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     * Cloud Computing & Cloud Infrastructure
     * Development Operations - (DevOps)
 
-* The following is a list in ascending order of delivery date of some of the relevant processes that were covered and applications that were built during a 14-week program in a single lecture (**90 minutes or less**). Demonstrations relied heavily on git, TDD and Cloud Native practices; enforcing version-control, portability, and testability across each of the developer’s environments. It should be noted that each application, even the creation of the Github repository, was built in front of a live audience of 25 to 30 developers, while polling for and answering questions.
-    * A [simple JUnit Testing application](https://github.com/curriculeon/maven.java-fundamentals) built with Maven using JUnit5 testing paradigms and conventions for testing input and output of algorithms;
-        * The intent of building this application for the developers is to demonstrate how to implement proper TDD practices. It is critical that this is presented early to the developer to ensure that each demonstration that follows can be built and then tested appropriately.
-    * A [crude database-access application](https://github.com/curriculeon/jdbc.project-template) built with Maven using JUnit5 and JDBC to test database connectivity, querying capabilities, and database insertion;
-        * The intent of building this application for the developers is to demonstrate how to leverage Java’s JDBC API to connect to delete, create, and connect to a new connection. The demonstration included how to switch Driver implementation by modifying the `pom.xml` to specify the JDBC driver.
-    * A [scalable database-access application](https://github.com/curriculeon/maven.jpa_convert-from-jdbc) built with Maven using JUnit5 and JDBC to test database connectivity querying capabilities and database insertion
-        * The purpose of demonstrating how to build this application is to assist the developers with establishing how to build an application that leverages strictly JDBC and scales easily by adding more POJO-oriented logic.
-        * This demonsstration will prepare developers for proper application-design and scalability by abiding by SOLID principles and introducing GoF Design Patterns (particularly factories, builders, and singletons).
-        * In the days that follow, the developers witnesses how proper design can scale flexibly. The decision to implement this POJO-oriented logic is to later enforce an entity-driven-design implementation using JPA and again later with a Spring Boot implementation.
-    * A [scalable-database access application](https://github.com/curriculeon/maven.jpa_convert-from-jdbc) built with Maven using JUnit5 and JDBC and JPA.
-        * The developers witnesses how the aforementioned application is easily transformed into a JPA project by introducing `persistence.xml` in the `main/resources/META-INF` directory and including a JPA flavor in the `pom.xml`.
-    * A [Spring application](https://github.com/curriculeon/spring_projecttemplate) which exposes basic CRUD operations of a controller managing an entity with implicit @Basic field-types
-        * By leveraging the H2-console, the developers witness the entire development lifecycle of a Spring Boot application beginning with empty tables. As an Entity is defined, the developers immediately view the change in the console.
-        * The developers benefits from viewing this demonstration by witnessing how Beans, EntityManager, IoC container, and Dependency Injection work in the context of Spring
-        * The application is tested and interacted with via Postman
-    * A [Spring application](https://github.com/curriculeon/spring.mockito_muffinmaker) with automated tests for Controllers, Services, and Repositories by using BDDMockito
-        * Using Junit & SpringRunner, MockMvc, MockBean, BDDMockito, and Jackson databind, the developers learns how to create automated tests to check the correctness of the web server. This step is critical in the developers’ advancement toward automation. This ensures that each of the applications that follow can be provisioned with automated tested.
-    * A [Spring application](https://github.com/curriculeon/sql.my-first-query) which exposes CRUD controllers with multi-dependent services and entities with relational cardinality
-        * The developers establishes how to make use of an Entity with a cardinal relation to another Entity (1-1, 1-M, M-M, M-1). Additionally, they view how to inject multiple dependencies from the IoC container into the scope of a dependee.
-    * A [Spring Web Server and JSP Web Application](https://github.com/curriculeon/spring.jsp_loginpage) which renders a login page to create and manage User sessions within the system
-        * Using Spring security and the aforementioned technologies, the developers learns how to create an application which enables sign-up, and login features. Additionally, the application manages User sessions for multiple connections and instances.
-    * A [Spring Web Server and ReactJS Web Application](https://github.com/curriculeon/spring.react_projecttemplate) which allows a client to add and view ReactJS Web application which renders a list of customers fetched from a Spring Web Server
-        * The purpose of building this application is to demonstrate how microserver architecture allows us to easily swap implementations of a layer of the stack
-    * A [Spring Web Server and Angular6 Web Application](https://github.com/curriculeon/spring.angular_projecttemplate) (Spring Web Server and Angular6 Web Application) which allows a client to add and view a list of customers fetched from a Spring Web Server
-        * The purpose of building this application is to further expound how microserver architecture allows us to easily swap implementations of a layer of the stack
-    * A [continuous integration system](https://curriculeon.github.io/Curriculeon/lectures/ci-cd/jenkins/my-first-maven-pipeline/content.html) (Git, Jenkins, Web Server, Web Application) which fetches a remote repository, builds the application, and runs tests, and reports the results to Jenkins
-        * The intent of building this system is to demonstrate how to create an automated pipeline for continuous integration and continuous delivery
-    * A [demonstration of containerizing Spring jars](https://curriculeon.github.io/Curriculeon/lectures/cloud/docker/dockerize-jar-application/lecture.html#/1/1)
-        * This demonstration allows developers to learn how to containerize applications using Docker with the intent to deploy the application in the most portable way possible.
-    * A [demonstration of deploying Spring jars to AWS Elastic Beanstalk](https://curriculeon.github.io/Curriculeon/lectures/cloud/aws/aws-elastic-beanstalk_deploying-maven-springboot-to/deploy-springboot-to-aws/content.html)
-        * The intent of this demonstration was to provide the developers with industry standard practice for deploying and managing applications on the cloud.
-
+    
 ### Owner and Creator
 #### Leonium.jar: A Selenium and ExtentReport Wrapper Library
 * [Leonium](https://github.com/Git-Leon/leonium) is an [uber jar]() deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils/) that is used to automate Selenium build configuration and script development.
