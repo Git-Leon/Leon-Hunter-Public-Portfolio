@@ -7,6 +7,15 @@ html {
   scrollbar-color: #202324 #454a4d;
 }
 
+
+header a {
+  display:none
+}
+
+header ul {
+  display:none
+}
+
 footer p:nth-child(2) {
   display:none
 }
@@ -15,10 +24,6 @@ header {
   background-color: rgb(27, 87, 72);
   background-image: none;
   border-bottom-color: rgb(38, 78, 97);
-}
-
-header ul {
-  display:none
 }
 
 header ul li {
