@@ -8,15 +8,10 @@ html {
 }
 
 
-header a {
-  display:none
+p, ul, ol, table, pre, dl {
+  color: antiquewhite
 }
-
-header ul {
-  display:none
-}
-
-footer p:nth-child(2) {
+header a, header ul, footer p:nth-child(2) {
   display:none
 }
 
