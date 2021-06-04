@@ -86,6 +86,34 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 <hr><hr>
 
 ## Experience:
+
+### Senior Technical Instructor
+#### ZipCodeWilmington; Wilmington, DE.
+##### May 2021 - Present
+* Deliverables include, but are not limited to, the following:
+  * Support and lead instructor-led training that prepares students for entry-level careers as a Software Engineers/Developers or as Data Engineers
+  * Demonstrate and provide experience with
+    * Database management systems, SQL commands, functions, joins, subqueries, and other advanced SQL concepts
+    * Full Stack Development with Java8+, JDBC, NodeJS, ReactJS, AngularJS, ExpressJS, JPA, Spring MVC, Spring Boot and the like
+    * Object-oriented programming, algorithms and data structures
+  * Review and debug software code
+  * Maintain and update the company’s internal LMS with student grades, lab results, testing scores and progress notes
+  * Support and maintain the training curricula, syllabi, lesson plans, and any other classroom materials
+  * Write content and curriculum related to instructional outcomes, as needed
+  * Communicate complex engineering concepts and explain them in an engaging way, as needed
+
+
+
+### Techpreneur Incubator Lead
+#### ZipCodeWilmington: Techpreneur Incubator Course
+##### March 2021 - May 2021; Wilmington, DE.
+* Deliverables include, but are not limited to, the following:
+  * weekly meetings with techpreneur consultants
+  * identification of resources to assist techpreneur consultants with technical development of their products
+  * advice, analysis, feedback, and assistance with product development
+
+
+
 ### Remote Lead Technical Instructor 
 #### Per Scholas: Cloud DevOps Engineering Course
 ##### November 2020 – February 2021; Boston, MA.
@@ -109,7 +137,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
 ### Remote Curriculum Developer 
 #### Per Scholas: Cloud DevOps Engineering
-##### September 2020 – November 2020.
+##### September 2020 – November 2020
 * As a remote curriculum developer, responsibilities included creating content for curriculums which extensively cover the following topics and more over a twelve to fourteen week period:
     * Cloud Security
     * Cloud DevOps
