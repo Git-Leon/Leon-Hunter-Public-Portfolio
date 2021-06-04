@@ -2,8 +2,8 @@
 
 _Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/master/Leon-Hunter-Public-Portfolio.pdf) to download the most recent_ `.pdf`
 
-# Senior Cloud Native Application Developer
-# Junior Cloud DevOps Engineer
+# Cloud Native Application Developer
+# Cloud DevOps Engineer
 
 ## About
 
