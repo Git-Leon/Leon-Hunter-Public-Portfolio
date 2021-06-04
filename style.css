@@ -13,6 +13,10 @@ header {
   border-bottom-color: rgb(38, 78, 97);
 }
 
+header ul {
+  display:none
+}
+
 header ul li {
   width: 79px;
   float: left;
