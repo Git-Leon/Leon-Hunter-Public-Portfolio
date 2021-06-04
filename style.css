@@ -7,6 +7,10 @@ html {
   scrollbar-color: #202324 #454a4d;
 }
 
+footer p:nth-child(2) {
+  display:none
+}
+
 header {
   background-color: rgb(27, 87, 72);
   background-image: none;
