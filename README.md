@@ -11,7 +11,7 @@ _Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/maste
 * **Phone**: `(302) 312-4489`
 * **Email**: <a href="mailto:xleonhunter@gmail.com">`xleonhunter@gmail.com`</a>
 * **Website:**
-    * [https://curriculeon.github.io/Curriculeon/courses/new-content/](https://curriculeon.github.io/Curriculeon/courses/new-content/)
+    * [https://curriculeon.github.io/Curriculeon/](https://curriculeon.github.io/Curriculeon/)
 * **LinkedIn:** [https://www.linkedin.com/in/leon-hunter-3230408b](https://www.linkedin.com/in/leon-hunter-3230408b)
 * **Github Organization Ownership**
     * `https://github.com/curriculeon`
@@ -35,13 +35,15 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
 ### Owner and Creator
 #### Curriculeon: The Online Coding Curriculum
-* [Curriculeon](https://curriculeon.github.io/Curriculeon/courses/new-content/) is an online curriculum built in [RevealJs](https://github.com/hakimel/reveal.js/), [Jekyll](https://jekyllrb.com/), and [Github Pages](https://pages.github.com/), which offers free open-source learning content for the following topics:
-    * Java Web Development
+* [Curriculeon](https://curriculeon.github.io/Curriculeon/) is an online curriculum built in [Canvas LMS](https://github.com/instructure/canvas-lms/wiki/Quick-Start), [RevealJs](https://github.com/hakimel/reveal.js/), [Jekyll](https://jekyllrb.com/), and [Github Pages](https://pages.github.com/), which offers free open-source learning content for the following topics:
     * Command Line Scripting
-    * GitCli
+    * Version Control Software
     * HTML/CSS/JS
-    * Python Scripting
+    * NodeJS, ReactJS
+    * Java Web Development
     * Cloud Computing & Cloud Infrastructure
+    * Continuous Integration / Continuous Deployment
+    * Containerization / Orchestration
     * Development Operations - (DevOps)
 
     
@@ -52,13 +54,13 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     * This allows this framework to run `GeckoDriver`, `ChromeDriver`, `PhantomDriver`, `HtmlUnitDriver` without downloading any external dependencies
 * The library also includes mechanisms for
     * enabling logging for each web-interaction
-    * enabling reporting using [ExtentReports]() for aggregating results
+    * enabling [reporting using ExtentReports](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/git_leon/leonium/browsertools/browserhandler/reporting) for aggregating results
     * [helper classes](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/git_leon/leonium/browsertools) with [built-in intelligent-waits](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/git_leon/leonium/browsertools/browserhandler/waiting)
 
 
 ### Owner and Creator
 #### OpenCVL.jar: An OpenCV Wrapper With Haar Cascade Machine Learning
-* [OpenCVL](https://github.com/Git-Leon/opencvl) is an [uber jar](https://curriculeon.github.io/Curriculeon/lectures/java/build-automation/maven/uber-jar&maven-hosting/content.html) deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils/) that is used to ease implementation of Object Detection Algorithm by leveraging [OpenCV](https://opencv.org/opencv-now-supports-desktop-java/) and [HaarCascadeClassifiers](https://ieeexplore.ieee.org/abstract/document/990517).
+* [OpenCVL](https://github.com/Git-Leon/opencvl) is an uber jar deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils/) that is used to ease implementation of Object Detection Algorithm by leveraging [OpenCV](https://opencv.org/opencv-now-supports-desktop-java/) and [HaarCascadeClassifiers](https://ieeexplore.ieee.org/abstract/document/990517).
 * The library includes mechanisms for
     * [a factory class for dynamically fetching haar cascade classififers](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/utils/CascadeClassifierFactory.java)
     * [face detection interface](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/facedetector/FaceDetectorInterface.java)
@@ -69,7 +71,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
 ### Owner and Creator
 #### JFoot.jar: A Greenfoot Wrapper Library
-* [Jfoot](https://github.com/Git-Leon/jfoot-api) is an [uber jar](https://curriculeon.github.io/Curriculeon/lectures/java/build-automation/maven/uber-jar&maven-hosting/content.html) deployed on [packagecloud.io](https://packagecloud.io/git-leon/) that is used to make Greenfoot applications with Maven.
+* [Jfoot](https://github.com/Git-Leon/jfoot-api) is an uber jar deployed on [packagecloud.io](https://packagecloud.io/git-leon/) that is used to make Greenfoot applications with Maven.
 * The library includes mechanisms for
     * converting greenfoot applications to maven applications
     * [helper interfaces for building games](https://github.com/Git-Leon/jfoot-api/tree/master/src/main/java/com/github/git_leon/jfoot)
