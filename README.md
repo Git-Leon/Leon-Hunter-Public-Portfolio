@@ -149,7 +149,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 #### Per Scholas: Full Stack Java Engineering Course 
 ##### June 2020 – September 2020; Charlotte, NC.
 
-* Created more than 65 github repositories, along with branches and configured branching rules, for trainees to leverage to build applications, cumulating more than [550 Git contributions within the organization during the 14 week program](https://github.com/Git-Leon?from=2020-10-01&to=2020-10-25&org=platformps&year_list=1).
+* Created more than 65 github repositories, along with branches and configured branching rules, for trainees to leverage to build applications, cumulating more than [500 Git contributions within the organization during the 14 week program](https://github.com/Git-Leon?from=2020-10-01&to=2020-10-25&org=platformps&year_list=1#year-link-2020).
 * Managed the group of developers through the development of more than 20 functioning full stack java applications of developers by utilizing Git and Cloud Native Application Development practices. Application stacks used some variance of the technologies listed below.
     * Java8, Spring Security, Spring MVC, Spring Boot, Mockito, JSP, ReactJS, Angular
     * AWS S3, AWS EC2, AWS Cloud9, Heroku, Netlify
@@ -200,14 +200,14 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
 * Lead content developer for java programming boot camp.
 * Created solutions, lectures, and curriculum for training program.
-* Taught all core concepts of java and advanced topics including JDBC, JPA, Spring Boot, and design patterns
+* Taught Core Java and and Java Web APIs using JDBC, JPA, Spring Boot, and design patterns
 * Assisted in the education and job-placement of over 200 junior full-stack application developers
 
 ### Contractor / Technical Instructor
 #### JPMorgan Chase & Co.
 ##### October 2018 – November 2018; Glasgow, United Kingdom
 
-* Contracted through ZipCodeWilmington, I served as a technical Java instructor teaching web-development to JP Morgan’s incoming, and transitioning developers located in Glasgow, Scotland.
+* Contracted through ZipCodeWilmington, served as a technical Java instructor teaching web-development to JP Morgan’s incoming, and transitioning developers located in Glasgow, Scotland.
 * The course was an intense 12 week training program mocking a real-world developer environment by enforcing collaboration strictly through Github, and enforcing 12 factor configuration methodologies such as leveraging Maven for dependency management and environment variables for application configuration.
 The course was taught using a stack of Maven, SpringBoot, MySQL, Angular and Heroku
 
@@ -225,7 +225,7 @@ The course was taught using a stack of Maven, SpringBoot, MySQL, Angular and Her
 
 * Lead content developer for java programming boot camp.
 * Created solutions, lectures, and curriculum for training program.
-* Taught all core concepts of java and advanced topics including JDBC, JPA, Spring Boot, and design patterns
+* Taught Core Java and and Java Web APIs using JDBC, JPA, Spring Boot, and design patterns
 * Assisted in the education and job-placement of over 200 junior full-stack application developers
 
 ### Contractor; Technical Instructor
@@ -240,7 +240,7 @@ The course was taught using a stack of Maven, SpringBoot, MySQL, Angular and Her
 #### Zip Code Wilmington
 ##### April 2017 – April 2018; Wilmington, DE.
 
-* Taught all core concepts of web design in the context of Java.
+* Taught Core Java and and Java Web APIs using JDBC, JPA, Spring Boot, and design patterns
 * Covered advanced topics including JDBC, JPA, Reflections, Collections.
 * Lectured on design patterns in the context of advanced frameworks such as Spring Boot and Angular.
 * Assisted in the education and job-placement of over 200 junior full-stack application developers
@@ -249,7 +249,7 @@ The course was taught using a stack of Maven, SpringBoot, MySQL, Angular and Her
 #### Marlette Funding
 ##### January 2016 – April 2017; Wilmington, DE.
 
-* As a test automation engineer, I was responsible for the implementing a WebCrawling framework for UI automation scripts and error reporting.
+* Implemented a WebCrawling framework for UI automation scripts and error reporting.
 * The application was implemented using Selenium, Selenium Grid, SauceLabs, TestNG, and Extent Reporting.
 
 ### Undergraduate Researcher
