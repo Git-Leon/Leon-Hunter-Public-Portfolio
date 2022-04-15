@@ -1,10 +1,11 @@
-echo "The application should serve on [localhost:4000](http://localhost:4000/) by default."
+portNumber=4000
+echo "The application should serve on [localhost:$portNumber](http://localhost:$portNumber/) by default."
 echo "Building project..."
 
-kill -kill `lsof -t -i tcp:4000`
+kill -kill `lsof -t -i tcp:$portNumber`
 bundle install
 bundle update --bundler
 bundle update faraday
 bundle exec jekyll serve --watch
 
-echo "The application should be served on [localhost:4000](http://localhost:4000/)"
+echo "The application should be served on [localhost:$portNumber](http://localhost:$portNumber/)"

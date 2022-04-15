@@ -1,3 +1,5 @@
+~$*.docx
+*.log
 
 # Created by https://www.gitignore.io/api/intellij,webstorm,sublimetext,visualstudio,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=intellij,webstorm,sublimetext,visualstudio,visualstudiocode
