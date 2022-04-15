@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 
-_Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/master/Leon-Hunter-Public-Portfolio.pdf) to download the most recent_ `.pdf`
+_Click [here](https://git-leon.github.io/Leon-Hunter-Public-Portfolio/) to view this document on the web_.
 
 # Cloud Native Test Automation Engineer
 
@@ -25,15 +25,14 @@ _Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/maste
 Experienced T-shaped Engineer and Technical Instructor with a demonstrated history of managing and up-skilling teams of Junior engineers.
 Highly skilled in Cloud Native Application Development using Java8+, Spring, Mockito, and ReactJS.
 Knowledgeable in Cloud Dev Ops using unittest, JUnit5, Selenium, Docker, Jenkins, Kubernetes, and AWS.
-Avid user and advocate of version control management systems, cumulating more than [2500 total Git contributions in the past year](https://github.com/Git-Leon?tab=overview#year-link-2020).
+[Avid user and advocate of version control management systems](https://github.com/Git-Leon?tab=overview&from=2020-12-01&to=2020-12-31).
 Strong information technology professional with a Bachelor of Science (BS) focused in Computer Science, Mathematics Minor from Delaware State University. 
 
 <hr><hr>
 
 ## Personal Projects
 
-### Owner and Creator
-#### Curriculeon: The Online Coding Curriculum
+### Curriculeon: The Online Coding Curriculum
 * [Curriculeon](https://curriculeon.github.io/Curriculeon/) is an online curriculum built in [Canvas LMS](https://github.com/instructure/canvas-lms/wiki), [RevealJs](https://github.com/hakimel/reveal.js/), [Jekyll](https://jekyllrb.com/), and [Github Pages](https://pages.github.com/), which offers free open-source learning content for the following topics:
     * Command Line Scripting
     * Version Control Software
@@ -46,19 +45,17 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     * Development Operations - (DevOps)
 
     
-### Owner and Creator
-#### Leonium.jar: A Selenium and ExtentReport Wrapper Library
+### Leonium.jar: A Selenium and ExtentReport Wrapper Library
 * [Leonium](https://github.com/Git-Leon/leonium) is an [uber jar]() deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils/) that is used to automate Selenium build configuration and script development.
 * The library includes [an embedded `.jar` used for dynamically downloading driver binaries](https://github.com/bonigarcia/webdrivermanager)
     * This allows this framework to run `GeckoDriver`, `ChromeDriver`, `PhantomDriver`, `HtmlUnitDriver` without downloading any external dependencies
 * The library also includes mechanisms for
     * enabling logging for each web-interaction
-    * enabling [reporting using ExtentReports](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/git_leon/leonium/browsertools/browserhandler/reporting) for aggregating results
-    * [helper classes](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/git_leon/leonium/browsertools) with [built-in intelligent-waits](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/git_leon/leonium/browsertools/browserhandler/waiting)
+    * enabling [reporting using ExtentReports](https://github.com/Git-Leon/leonium/blob/master/src/main/java/com/github/git_leon/leonium/extentreporting/) for aggregating results
+    * [helper classes](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/github/git_leon/leonium/browsertools) with [built-in intelligent-waits](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/github/git_leon/leonium/browsertools/browserhandler/waiting)
 
 
-### Owner and Creator
-#### OpenCVL.jar: An OpenCV Wrapper With Haar Cascade Machine Learning
+### OpenCVL.jar: An OpenCV Wrapper With Haar Cascade Machine Learning
 * [OpenCVL](https://github.com/Git-Leon/opencvl) is an uber jar deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils/) that is used to ease implementation of Object Detection Algorithm by leveraging [OpenCV](https://opencv.org/opencv-now-supports-desktop-java/) and [HaarCascadeClassifiers](https://ieeexplore.ieee.org/abstract/document/990517).
 * The library includes mechanisms for
     * [a factory class for dynamically fetching haar cascade classififers](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/utils/CascadeClassifierFactory.java)
@@ -68,29 +65,23 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     * [face detection factory class](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/facedetector/FaceDetectorFactory.java)
 
 
-### Owner and Creator
-#### JFoot.jar: A Greenfoot Wrapper Library
-* [Jfoot](https://github.com/Git-Leon/jfoot-api) is an uber jar deployed on [packagecloud.io](https://packagecloud.io/git-leon/) that is used to make Greenfoot applications with Maven.
-* The library includes mechanisms for
-    * converting greenfoot applications to maven applications
-    * [helper interfaces for building games](https://github.com/Git-Leon/jfoot-api/tree/master/src/main/java/com/github/git_leon/jfoot)
-    * [small gravity physics engine](https://github.com/Git-Leon/jfoot-api/tree/master/src/main/java/com/github/git_leon/jfoot/sprite/physics/gravity)
-
-
-
-### Owner and Creator
-#### ExceptionalFunctionalInterfaces.jar: A decoration of Java8 FunctionalInterfaces
-* [Exceptional Functional Interfaces](https://github.com/Git-Leon/Exceptional-Functional-Interfaces) is `.jar` deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils) that is used to express code that explicitly throws an `Exception`, without ever explicitly handling it by defering the `try`/`catch` to the respective `FunctionalInterface`'s static `tryInvoke` method.
-* With the advent of [Java 8 Lambdas](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html) and [Method References](https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html), functional programming in java has become increasingly popular. Unfortunately, Java 8 does not account for creating lambda expressions which may throw an `Exception`. This shortcoming has caused a great deal of frustration when developing an exceptional-codebase which should be expressed functionally rather than with object orientation. This library aims to help rememdy the deficiencies of exceptional expressions in Java 8 functional programming.
-
 
 <hr><hr>
 
 ## Experience:
 
+### Senior Software Engineer
+#### JPMorgan & Chase; Wilmington, DE.
+##### December 2021 - Present
+* Worked collaboratively to ensure team and organization standards are followed and the team is consistently focused on continuous improvements and sustained delivery.
+* Employ simple design and pragmatic implementation techniques to drive business value.
+* Pair program with team members to build high-quality solutions.
+* Mentor junior team members to progress their technical and professional skills.
+
+
 ### Senior Technical Instructor
 #### ZipCodeWilmington; Wilmington, DE.
-##### May 2021 - Present
+##### May 2021 - December 2021
 * Deliverables include, but are not limited to, the following:
   * Support and lead instructor-led training that prepares students for entry-level careers as a Software Engineers/Developers or as Data Engineers
   * Demonstrate and provide experience with
