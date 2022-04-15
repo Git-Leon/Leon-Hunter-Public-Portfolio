@@ -32,8 +32,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
 ## Personal Projects
 
-### Owner and Creator
-#### Curriculeon: The Online Coding Curriculum
+### Curriculeon: The Online Coding Curriculum
 * [Curriculeon](https://curriculeon.github.io/Curriculeon/) is an online curriculum built in [Canvas LMS](https://github.com/instructure/canvas-lms/wiki), [RevealJs](https://github.com/hakimel/reveal.js/), [Jekyll](https://jekyllrb.com/), and [Github Pages](https://pages.github.com/), which offers free open-source learning content for the following topics:
     * Command Line Scripting
     * Version Control Software
@@ -46,8 +45,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     * Development Operations - (DevOps)
 
     
-### Owner and Creator
-#### Leonium.jar: A Selenium and ExtentReport Wrapper Library
+### Leonium.jar: A Selenium and ExtentReport Wrapper Library
 * [Leonium](https://github.com/Git-Leon/leonium) is an [uber jar]() deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils/) that is used to automate Selenium build configuration and script development.
 * The library includes [an embedded `.jar` used for dynamically downloading driver binaries](https://github.com/bonigarcia/webdrivermanager)
     * This allows this framework to run `GeckoDriver`, `ChromeDriver`, `PhantomDriver`, `HtmlUnitDriver` without downloading any external dependencies
@@ -57,8 +55,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     * [helper classes](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/git_leon/leonium/browsertools) with [built-in intelligent-waits](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/git_leon/leonium/browsertools/browserhandler/waiting)
 
 
-### Owner and Creator
-#### OpenCVL.jar: An OpenCV Wrapper With Haar Cascade Machine Learning
+### OpenCVL.jar: An OpenCV Wrapper With Haar Cascade Machine Learning
 * [OpenCVL](https://github.com/Git-Leon/opencvl) is an uber jar deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils/) that is used to ease implementation of Object Detection Algorithm by leveraging [OpenCV](https://opencv.org/opencv-now-supports-desktop-java/) and [HaarCascadeClassifiers](https://ieeexplore.ieee.org/abstract/document/990517).
 * The library includes mechanisms for
     * [a factory class for dynamically fetching haar cascade classififers](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/utils/CascadeClassifierFactory.java)
