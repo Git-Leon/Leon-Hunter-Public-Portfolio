@@ -19,6 +19,13 @@ html {
   height: 100%;
 }
 
+body {
+  margin: 0;
+  font: 14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #555;
+  font-weight: 300;
+}
+
 header a, header ul, footer p:nth-child(2) {
   display:none
 }
