@@ -1,16 +1,24 @@
 /* written by Leon Hunter */
-html {
-  background-color: #181a1b;
+
+html,
+section {
+    background-color: #181a1b;
 }
 
 * {
-  scrollbar-color: #202324 #454a4d;
+    scrollbar-color: #202324 #454a4d;
 }
 
 
 p, ul, ol, table, pre, dl {
-  color: antiquewhite
+    color: antiquewhite
 }
+
+html {
+  background: linear-gradient(#000000, #465543) fixed;
+  height: 100%;
+}
+
 header a, header ul, footer p:nth-child(2) {
   display:none
 }
