@@ -68,29 +68,22 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     * [face detection factory class](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/facedetector/FaceDetectorFactory.java)
 
 
-### Owner and Creator
-#### JFoot.jar: A Greenfoot Wrapper Library
-* [Jfoot](https://github.com/Git-Leon/jfoot-api) is an uber jar deployed on [packagecloud.io](https://packagecloud.io/git-leon/) that is used to make Greenfoot applications with Maven.
-* The library includes mechanisms for
-    * converting greenfoot applications to maven applications
-    * [helper interfaces for building games](https://github.com/Git-Leon/jfoot-api/tree/master/src/main/java/com/github/git_leon/jfoot)
-    * [small gravity physics engine](https://github.com/Git-Leon/jfoot-api/tree/master/src/main/java/com/github/git_leon/jfoot/sprite/physics/gravity)
-
-
-
-### Owner and Creator
-#### ExceptionalFunctionalInterfaces.jar: A decoration of Java8 FunctionalInterfaces
-* [Exceptional Functional Interfaces](https://github.com/Git-Leon/Exceptional-Functional-Interfaces) is `.jar` deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils) that is used to express code that explicitly throws an `Exception`, without ever explicitly handling it by defering the `try`/`catch` to the respective `FunctionalInterface`'s static `tryInvoke` method.
-* With the advent of [Java 8 Lambdas](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html) and [Method References](https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html), functional programming in java has become increasingly popular. Unfortunately, Java 8 does not account for creating lambda expressions which may throw an `Exception`. This shortcoming has caused a great deal of frustration when developing an exceptional-codebase which should be expressed functionally rather than with object orientation. This library aims to help rememdy the deficiencies of exceptional expressions in Java 8 functional programming.
-
-
 <hr><hr>
 
 ## Experience:
 
+### Senior Software Engineer
+#### JPMorgan & Chase, Chief Technology Office; Wilmington, DE.
+##### December 2021 - present
+* Work collaboratively to ensure standards are followed and team is consistently focused on continuous improvements and sustained delivery.
+* Employed simple design and pragmatic implementation techniques to drive business value.
+* Pair programmed with team members to build high-quality solutions.
+* Mentored junior team members to progress their technical and professional skills.
+
+
 ### Senior Technical Instructor
 #### ZipCodeWilmington; Wilmington, DE.
-##### May 2021 - Present
+##### May 2021 - December 2021
 * Deliverables include, but are not limited to, the following:
   * Support and lead instructor-led training that prepares students for entry-level careers as a Software Engineers/Developers or as Data Engineers
   * Demonstrate and provide experience with
