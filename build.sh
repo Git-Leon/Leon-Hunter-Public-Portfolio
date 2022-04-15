@@ -1,4 +1,4 @@
-portNumber=4005
+portNumber=4007
 echo "The application should serve on [localhost:$portNumber](http://localhost:$portNumber/) by default."
 echo "Building project..."
 

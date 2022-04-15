@@ -70,7 +70,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 ## Experience:
 
 ### Senior Software Engineer
-#### JPMorgan & Chase, Chief Technology Office; Wilmington, DE.
+#### JPMorgan Chase, Chief Technology Office; Wilmington, DE.
 ##### December 2021 - present
 * Work collaboratively to ensure standards are followed and team is consistently focused on continuous improvements and sustained delivery.
 * Employed simple design and pragmatic implementation techniques to drive business value.
