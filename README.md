@@ -1,6 +1,7 @@
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 
-_Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/master/Leon-Hunter-Public-Portfolio.pdf) to download the most recent_ `.pdf`
+_Click [here](https://git-leon.github.io/Leon-Hunter-Public-Portfolio/) to view this document online_
+<!-- _Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/master/Leon-Hunter-Public-Portfolio.pdf) to download the most recent_ `.pdf` -->
 
 # Cloud Native Test Automation Engineer
 
@@ -22,7 +23,7 @@ _Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/maste
 * Computer Science Major, Mathematics Minor
 
 ### Summary
-Experienced T-shaped Engineer and Technical Instructor with a demonstrated history of managing and up-skilling teams of Junior engineers.
+Experienced T-shaped Engineer, Curriculum Developer, and Technical Instructor with a demonstrated history of managing and up-skilling teams of Junior engineers.
 Highly skilled in Cloud Native Application Development using Java8+, Spring, Mockito, and ReactJS.
 Knowledgeable in Cloud Dev Ops using unittest, JUnit5, Selenium, Docker, Jenkins, Kubernetes, and AWS.
 Avid user and advocate of version control management systems, cumulating more than [2500 total Git contributions in the past year](https://github.com/Git-Leon?tab=overview#year-link-2020).
@@ -51,8 +52,8 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     * This allows this framework to run `GeckoDriver`, `ChromeDriver`, `PhantomDriver`, `HtmlUnitDriver` without downloading any external dependencies
 * The library also includes mechanisms for
     * enabling logging for each web-interaction
-    * enabling [reporting using ExtentReports](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/git_leon/leonium/browsertools/browserhandler/reporting) for aggregating results
-    * [helper classes](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/git_leon/leonium/browsertools) with [built-in intelligent-waits](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/git_leon/leonium/browsertools/browserhandler/waiting)
+    * enabling [reporting using ExtentReports](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/github/git_leon/leonium/browsertools/browserhandler/reporting) for aggregating results
+    * [helper classes](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/github/git_leon/leonium/browsertools) with [built-in intelligent-waits](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/github/git_leon/leonium/browsertools/browserhandler/waiting)
 
 
 ### OpenCVL.jar: An OpenCV Wrapper With Haar Cascade Machine Learning
