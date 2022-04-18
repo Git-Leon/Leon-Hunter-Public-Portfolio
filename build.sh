@@ -1,13 +1,14 @@
 batchScriptName='.batch-port-kill.bat'
 portNumber=4007
+
+echo "Killing proceess on port $portNumber..."
+powershell ./kill-port.ps1 $portNumber
+kill -kill `lsof -t -i tcp:$portNumber`
+echo "Process on port $portNumber killed."
+
+
 echo "The application should serve on [localhost:$portNumber](http://localhost:$portNumber/) by default."
 echo "Building project..."
-
-
-
-
-powershell kill-port.ps1 $portNumber
-kill -kill `lsof -t -i tcp:$portNumber`
 bundle install
 bundle update --bundler
 bundle update faraday
