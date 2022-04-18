@@ -6,7 +6,7 @@ echo "Building project..."
 
 
 
-powershell ./Stop-ProcessByPort.ps1 4007
+powershell ./Stop-ProcessByPort.ps1 $portNumber
 kill -kill `lsof -t -i tcp:$portNumber`
 bundle install
 bundle update --bundler
