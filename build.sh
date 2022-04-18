@@ -3,15 +3,10 @@ portNumber=4007
 echo "The application should serve on [localhost:$portNumber](http://localhost:$portNumber/) by default."
 echo "Building project..."
 
-echo '
-FOR /F "tokens=5 delims= " %P IN ('netstat -a -n -o ^| findstr :$portNumber') DO TaskKill.exe /PID %P /T /F
-' > $batchScriptName
-./$batchScriptName
-rm $batchScriptName
 
 
 
-
+powershell ./Stop-ProcessByPort.ps1 4007
 kill -kill `lsof -t -i tcp:$portNumber`
 bundle install
 bundle update --bundler
