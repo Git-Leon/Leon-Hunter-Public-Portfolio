@@ -9,7 +9,7 @@ _Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/maste
 
 ### Contact Information
 * **Phone**: `(302) 312-4489`
-* **Email**: <a href="mailto:xleonhunter@gmail.com">`xleonhunter@gmail.com`</a>
+* **Email**: [`xleonhunter@gmail.com`](mailto:xleonhunter@gmail.com)
 * **Website:**
     * [https://curriculeon.github.io/Curriculeon/](https://curriculeon.github.io/Curriculeon/)
 * **LinkedIn:** [https://www.linkedin.com/in/leon-hunter-3230408b](https://www.linkedin.com/in/leon-hunter-3230408b)
