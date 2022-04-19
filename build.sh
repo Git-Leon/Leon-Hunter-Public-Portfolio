@@ -1,4 +1,3 @@
-batchScriptName='.batch-port-kill.bat'
 portNumber=4007
 
 echo "Killing proceess on port $portNumber..."
