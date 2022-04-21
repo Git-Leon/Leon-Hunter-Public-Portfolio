@@ -47,7 +47,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
     
 ### Leonium.jar: A Selenium and ExtentReport Wrapper Library
-* [Leonium](https://github.com/Git-Leon/leonium) is an [uber jar]() deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils/) that is used to automate Selenium build configuration and script development.
+* [Leonium](https://github.com/Git-Leon/leonium) is an [uber jar](https://curriculeon.github.io/Curriculeon/lectures/java/build-automation/maven/uber-jar/content.html) deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils/) that is used to automate Selenium build configuration and script development.
 * The library includes [an embedded `.jar` used for dynamically downloading driver binaries](https://github.com/bonigarcia/webdrivermanager)
     * This allows this framework to run `GeckoDriver`, `ChromeDriver`, `PhantomDriver`, `HtmlUnitDriver` without downloading any external dependencies
 * The library also includes mechanisms for
