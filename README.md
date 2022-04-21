@@ -15,7 +15,7 @@ _Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/maste
 * **LinkedIn:** [https://www.linkedin.com/in/leon-hunter-3230408b](https://www.linkedin.com/in/leon-hunter-3230408b)
 * **Github Organization Ownership**
     * [`https://github.com/curriculeon`](https://github.com/curriculeon)
-    * [https://github.com/git-leon`](https://github.com/git-leon)
+    * [`https://github.com/git-leon`](https://github.com/git-leon)
 
 ### Education
 * Delaware State University (2011 - 2015)
@@ -26,7 +26,7 @@ _Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/maste
 Experienced T-shaped Engineer, Curriculum Developer, and Technical Instructor with a demonstrated history of managing and up-skilling teams of Junior engineers.
 Highly skilled in Cloud Native Application Development using Java8+, Spring, Mockito, and ReactJS.
 Knowledgeable in Cloud Dev Ops using unittest, JUnit5, Selenium, Docker, Jenkins, Kubernetes, and AWS.
-Avid user and advocate of version control management systems, cumulating [thousands of contributions in short periods of time](https://github.com/Git-Leon?tab=overview&from=2020-12-01&to=2020-12-31).
+Avid user and advocate of version control management systems, cumulating [thousands of contributions in short periods of time](https://github.com/Git-Leon?tab=overview#year-link-2020).
 Strong information technology professional with a Bachelor of Science (BS) focused in Computer Science, Mathematics Minor from Delaware State University. 
 
 <hr><hr>
