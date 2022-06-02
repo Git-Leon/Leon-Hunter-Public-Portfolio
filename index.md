@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 
-<!-- _Click [here](https://git-leon.github.io/Leon-Hunter-Public-Portfolio/) to view this document online_ <br> -->
+_Click [here](https://git-leon.github.io/Leon-Hunter-Public-Portfolio/) to view this document online_ <br>
 _Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/master/Leon-Hunter-Public-Portfolio.pdf) to download the most recent_ `.pdf`
 
 # Cloud Native Test Automation Engineer
@@ -11,7 +11,7 @@ _Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/maste
 * **Phone**: `(302) 312-4489`
 * **Email**: [`xleonhunter@gmail.com`](mailto:xleonhunter@gmail.com)
 * **Website:** [https://curriculeon.github.io/Curriculeon/](https://curriculeon.github.io/Curriculeon/)
-* **LinkedIn:** [https://www.linkedin.com/in/leon-hunter-3230408b](https://www.linkedin.com/in/leon-hunter-3230408b)
+* **LinkedIn:** [https://www.linkedin.com/in/leon-hunter](https://www.linkedin.com/in/leon-hunter)
 * **Github Organization Ownership**
     * [`https://github.com/curriculeon`](https://github.com/curriculeon)
     * [`https://github.com/git-leon`](https://github.com/git-leon)
