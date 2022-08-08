@@ -69,13 +69,10 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
 ## Experience:
 
-### Senior Software Engineer
+### Vice President Software Engineer
 #### JPMorgan Chase, Chief Technology Office; Wilmington, DE.
 ##### December 2021 - present
-* Work collaboratively to ensure standards are followed and team is consistently focused on continuous improvements and sustained delivery.
-* Employed simple design and pragmatic implementation techniques to drive business value.
-* Pair programmed with team members to build high-quality solutions.
-* Mentored junior team members to progress their technical and professional skills.
+* Working as a member of the Artifacts Engineering team.
 
 
 ### Senior Technical Instructor
@@ -122,7 +119,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 #### TalentPath: Full Stack Java Engineering Course
 ##### November 2020 – December 2020
 * Using Git, Zoom, Slack to manage a group of developers through the development of Java Web-applications.
-* Leveraged Curriculeon [curriculum lectures](https://curriculeon.github.io/Curriculeon/) and [curriculum exercises](https://github.com/curriculeon) to [create an adhoc curriculum](./public-contract-artifacts/talent-path-schedule.html) to launch learners into an immediately immersive development environment to enforce a deploy-on-day-1 culture.
+* Leveraged Curriculeon [curriculum lectures](https://curriculeon.github.io/Curriculeon/) and [curriculum exercises](https://github.com/curriculeon) to [create an adhoc curriculum](./career-assets/contract-artifacts/talent-path-schedule.html) to launch learners into an immediately immersive development environment to enforce a deploy-on-day-1 culture.
 * Learners receive morning lectures from the curriculum, then exercises from the curriculum to complement the lecture.
 
 
