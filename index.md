@@ -69,6 +69,14 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
 ## Experience:
 
+### Adjunct Professor: Data Structures 2
+#### Delaware State University; Dover, DE.
+##### January 2023 - present
+* Responsible for teaching and instructing students in advanced data structures and algorithms
+* Developed and implemented engaging lesson plans and materials
+* Provided guidance and support to students to help them excel in the course and achieve academic goals
+
+
 ### Vice President Software Engineer
 #### JPMorgan Chase, Chief Technology Office; Wilmington, DE.
 ##### December 2021 - present
