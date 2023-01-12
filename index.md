@@ -3,7 +3,7 @@
 _Click [here](https://git-leon.github.io/Leon-Hunter-Public-Portfolio/) to view this document online_ <br>
 _Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/master/Leon-Hunter-Public-Portfolio.pdf) to download the most recent_ `.pdf`
 
-# Cloud Native Test Automation Engineer
+# Senior Software Engineering Content Creator
 
 ## About
 
