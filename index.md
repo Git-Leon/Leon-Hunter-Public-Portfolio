@@ -77,7 +77,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 ##### December 2021 - present
 * Member of the Artifacts Engineering team.
 - Created systems to migrate artifacts from legacy NAS mounts to AWS EKS Artifactory artifacts using Spring Boot and GraphQL.
-- Monitored traffic and proactively flipping active instances of Artifactory to redirect traffic using AppViewX when nodes become overwhelmed with traffic.
+- Monitored traffic and proactively flipped active instances of Artifactory to redirect traffic using AppViewX when nodes become overwhelmed with traffic.
 - Resolved user tickets related to artifact procurement, ensuring smooth and efficient operations for engineers within the firm.
 
 * **Technologies Used**
