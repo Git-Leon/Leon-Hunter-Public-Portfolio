@@ -3,7 +3,7 @@
 _Click [here](https://git-leon.github.io/Leon-Hunter-Public-Portfolio/) to view this document online_ <br>
 _Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/master/Leon-Hunter-Public-Portfolio.pdf) to download the most recent_ `.pdf`
 
-# Senior Software Engineering Content Creator
+# Cloud Native Test Automation Engineer
 
 ## About
 
@@ -80,8 +80,23 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 ### Vice President Software Engineer
 #### JPMorgan Chase, Chief Technology Office; Wilmington, DE.
 ##### December 2021 - present
-* Working as a member of the Artifacts Engineering team.
+* Member of the Artifacts Engineering team.
+- Created systems to migrate artifacts from legacy NAS mounts to AWS EKS Artifactory artifacts using Spring Boot and GraphQL.
+- Monitored traffic and proactively flipping active instances of Artifactory to redirect traffic using AppViewX when nodes become overwhelmed with traffic.
+- Resolved user tickets related to artifact procurement, ensuring smooth and efficient operations for engineers within the firm.
 
+* **Technologies Used**
+    - Artifactory
+    - Amazon Elastic Kubernetes Service (EKS)
+    - Prometheus
+    - AppDynamics
+    - Grafana
+    - JFrog CLI
+    - AppViewX
+    - Spring Boot
+    - GraphQL
+    - Docker cli
+    - maven, pypi, npm, nuget
 
 ### Senior Technical Instructor
 #### ZipCodeWilmington; Wilmington, DE.
