@@ -4,6 +4,7 @@ _Click [here](https://git-leon.github.io/Leon-Hunter-Public-Portfolio/) to view 
 _Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/master/Leon-Hunter-Public-Portfolio.pdf) to download the most recent_ `.pdf`
 
 # Cloud Native Test Automation Engineer
+# Senior Software Engineering Content Creator
 
 ## About
 
@@ -28,7 +29,8 @@ Knowledgeable in Cloud Dev Ops using unittest, JUnit5, Selenium, Docker, Jenkins
 Avid user and advocate of version control management systems, cumulating [thousands of contributions in short periods of time](https://github.com/Git-Leon?tab=overview&from=2020-12-01&to=2020-12-31).
 Strong information technology professional with a Bachelor of Science (BS) focused in Computer Science, Mathematics Minor from Delaware State University. 
 
-<hr><hr>
+<div class="pagebreak"> </div>
+
 
 ## Personal Projects
 
@@ -65,16 +67,9 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     * [face detection factory class](https://github.com/Git-Leon/opencvl/blob/master/src/main/java/com/github/gitleon/opencvdemo/facedetector/FaceDetectorFactory.java)
 
 
-<hr><hr>
+<div class="pagebreak"> </div>
 
 ## Experience:
-
-### Adjunct Professor: Data Structures 2
-#### Delaware State University; Dover, DE.
-##### January 2023 - present
-* Responsible for teaching and instructing students in advanced data structures and algorithms
-* Developed and implemented engaging lesson plans and materials
-* Provided guidance and support to students to help them excel in the course and achieve academic goals
 
 
 ### Vice President Software Engineer
@@ -97,6 +92,15 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     - GraphQL
     - Docker cli
     - maven, pypi, npm, nuget
+
+### Adjunct Professor: Data Structures 2
+#### Delaware State University; Dover, DE.
+##### January 2023 - present
+* Responsible for teaching and instructing students in advanced data structures and algorithms
+* Developed and implemented engaging lesson plans and materials
+* Provided guidance and support to students to help them excel in the course and achieve academic goals
+
+<div class="pagebreak"> </div>
 
 ### Senior Technical Instructor
 #### ZipCodeWilmington; Wilmington, DE.
@@ -138,6 +142,9 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     * Docker and Kubernetes
     * AWS Terraform, AWS ECS, AWS EKS, AWS Lightsail, AWS EC2, AWS Cloud9
 
+
+<div class="pagebreak"> </div>
+
 ### Remote Lead Technical Instructor 
 #### TalentPath: Full Stack Java Engineering Course
 ##### November 2020 – December 2020
@@ -164,15 +171,17 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     * Java8, Spring Security, Spring MVC, Spring Boot, Mockito, JSP, ReactJS, Angular
     * AWS S3, AWS EC2, AWS Cloud9, Heroku, Netlify
 
+
 ### Remote Curriculum Developer 
 #### Per Scholas
 ##### March 2020 – June 2020; Wilmington, DE.
 
 * As a remote curriculum developer, responsibilities included creating content for curriculums which extensively cover the following topics and more over a twelve to fourteen week period:
     * A+ CompTIA
-    * Network Security
     * ReactJS, Redux, Node
     * Java8, Spring Security, Spring MVC, Spring Boot, JPA, JDBC, JSPs, Mockito, Git
+
+<div class="pagebreak"> </div>
 
 ### Lead Software Engineer 
 #### Scriptcasters.com: OverseasBasketballConnection.com
@@ -197,12 +206,17 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 * Lead Technical Instructor at Per Scholas’s Philadelphia pilot of Full Stack Java Engineering bootcamp.
 * As lead technical instructor, responsibilities included covering course material via lecture as well as building and testing applications live in front of an audience of 25 developers.
 
+
 ### Lead Curriculum Designer
 #### CodeDifferently
 ##### July 2019 – November 2019; Wilmington, DE.
 
 * As the Lead Curriculum Developer, responsibilities include technically instructing learners, designing exercises and solutions, as well as managing 3-person development team.
 * Created lesson plans, lecture sequences, and architected teaching material via abstractions of reusable content
+
+
+<div class="pagebreak"> </div>
+
 
 ### Lead Curriculum Developer
 #### Zip Code Wilmington: Full Stack Java Engineering Course
@@ -221,6 +235,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 * The course was an intense 12 week training program mocking a real-world developer environment by enforcing collaboration strictly through Github, and enforcing 12 factor configuration methodologies such as leveraging Maven for dependency management and environment variables for application configuration.
 The course was taught using a stack of Maven, SpringBoot, MySQL, Angular and Heroku
 
+
 ### Contractor; Lead Technical Instructor
 #### JPMorgan Chase & Co.
 ##### June 2018 – September 2018; Wilmington, DE.
@@ -228,6 +243,9 @@ The course was taught using a stack of Maven, SpringBoot, MySQL, Angular and Her
 * Contracted through ZipCodeWilmington, I served as the technical Lead Java instructor teaching web-development to JP Morgan’s incoming, and transitioning developers.
 * The course was an intense 12 week training program mocking a real-world developer environment by enforcing collaboration strictly through Github, and enforcing 12 factor configuration methodologies such as leveraging Maven for dependency management and environment variables for application configuration.
 The course was taught using a stack of Maven, SpringBoot, MySQL, Angular and Heroku.
+
+
+
 
 ### Lead Technical Instructor
 #### Zip Code Wilmington
@@ -237,6 +255,8 @@ The course was taught using a stack of Maven, SpringBoot, MySQL, Angular and Her
 * Created solutions, lectures, and curriculum for training program.
 * Taught Core Java and and Java Web APIs using JDBC, JPA, Spring Boot, and design patterns
 * Assisted in the education and job-placement of over 200 junior full-stack application developers
+
+<div class="pagebreak"> </div>
 
 ### Contractor; Technical Instructor
 #### JPMorgan Chase & Co.
@@ -269,6 +289,9 @@ The course was taught using a stack of Maven, SpringBoot, MySQL, Angular and Her
 * The objective of this project was to develop a genetic algorithm to control a spatial light modulator (SLM) used for shaping the profile of a laser beam.
 * Implemented [evolutionary algorithm for adaptive optics](https://github.com/Git-Leon/adaptive-optic-ga) using MatLAB
 * Interfaced MatLAB with LabVIEW software.
+
+
+<div class="pagebreak"> </div>
 
 ### Operations Leadership Intern
 #### Discover Financial
