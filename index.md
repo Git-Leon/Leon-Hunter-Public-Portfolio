@@ -3,8 +3,14 @@
 _Click [here](https://git-leon.github.io/Leon-Hunter-Public-Portfolio/) to view this document online_ <br>
 _Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/master/Leon-Hunter-Public-Portfolio.pdf) to download the most recent_ `.pdf`
 
+
+
 # Cloud Native Test Automation Engineer
 # Senior Software Engineering Content Creator
+
+
+  <div id="github-widget" data-user="your-github-username" data-display="pop_repos,calendar"></div>
+  <script src="https://gh-widget.oyanglul.us/index.js"></script>
 
 ## About
 
@@ -28,6 +34,19 @@ Highly skilled in Cloud Native Application Development using Java8+, Spring, Moc
 Knowledgeable in Cloud Dev Ops using unittest, JUnit5, Selenium, Docker, Jenkins, Kubernetes, and AWS.
 Avid user and advocate of version control management systems, cumulating [thousands of contributions in short periods of time](https://github.com/Git-Leon?tab=overview&from=2020-12-01&to=2020-12-31).
 Strong information technology professional with a Bachelor of Science (BS) focused in Computer Science, Mathematics Minor from Delaware State University. 
+
+<!-- 
+<table>
+   <tr>
+      <td>
+         <img alt="Git-Leon's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=git-leon&show_icons=true&theme=dracula">         
+      </td>
+      <td>
+         <img alt="Git-Leon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-leon&layout=compact&theme=dracula&hide=roff,tsql,c">
+      </td>
+   </tr>
+</table>
+-->
 
 <div class="pagebreak"> </div>
 
