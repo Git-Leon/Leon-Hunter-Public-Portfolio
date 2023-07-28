@@ -35,7 +35,8 @@ Knowledgeable in Cloud Dev Ops using unittest, JUnit5, Selenium, Docker, Jenkins
 Avid user and advocate of version control management systems, cumulating [thousands of contributions in short periods of time](https://github.com/Git-Leon?tab=overview&from=2020-12-01&to=2020-12-31).
 Strong information technology professional with a Bachelor of Science (BS) focused in Computer Science, Mathematics Minor from Delaware State University. 
 
-<!-- 
+
+<!--
 <table>
    <tr>
       <td>
@@ -47,6 +48,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
    </tr>
 </table>
 -->
+
 
 <div class="pagebreak"> </div>
 
@@ -114,7 +116,8 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
 ### Adjunct Professor: Data Structures 2
 #### Delaware State University; Dover, DE.
-##### January 2023 - present
+##### January 2023 - May 2023
+* The course syllabus is accessible [here](https://curriculeon.github.io/syllabus.datastructures2/)
 * Responsible for teaching and instructing students in advanced data structures and algorithms
 * Developed and implemented engaging lesson plans and materials
 * Provided guidance and support to students to help them excel in the course and achieve academic goals
