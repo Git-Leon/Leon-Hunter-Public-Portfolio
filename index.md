@@ -5,8 +5,8 @@ _Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/maste
 
 
 
+# Senior Full Stack Java Engineer, and
 # Cloud Native Test Automation Engineer
-# Senior Software Engineering Content Creator
 
 
   <div id="github-widget" data-user="your-github-username" data-display="pop_repos,calendar"></div>
