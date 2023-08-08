@@ -36,7 +36,6 @@ Avid user and advocate of version control management systems, cumulating [thousa
 Strong information technology professional with a Bachelor of Science (BS) focused in Computer Science, Mathematics Minor from Delaware State University. 
 
 
-<!--
 <table>
    <tr>
       <td>
@@ -47,7 +46,6 @@ Strong information technology professional with a Bachelor of Science (BS) focus
       </td>
    </tr>
 </table>
--->
 
 
 <div class="pagebreak"> </div>
