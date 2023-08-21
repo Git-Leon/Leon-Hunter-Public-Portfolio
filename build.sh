@@ -1,4 +1,4 @@
-portNumber=4007
+portNumber=4005
 
 echo "Killing proceess on port $portNumber..."
 powershell ./kill-port.ps1 $portNumber
