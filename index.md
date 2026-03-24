@@ -132,6 +132,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 - Bruno (API testing collections)  
 - Lombok  
 
+<div class="pagebreak"> </div>
 
 ### Vice President Software Engineer
 #### Card Transaction History API Modernization  
@@ -174,6 +175,10 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 - Docker  
 - SonarQube  
 - Swagger UI / Springdoc OpenAPI  
+
+
+
+<div class="pagebreak"> </div>
 
 ### Vice President Software Engineer
 #### JPMorgan Chase, Chief Technology Office; Wilmington, DE.
