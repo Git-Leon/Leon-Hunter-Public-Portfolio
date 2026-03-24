@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 
 _Click [here](https://git-leon.github.io/Leon-Hunter-Public-Portfolio/) to view this document online_ <br>
-_Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/master/Leon-Hunter-Public-Portfolio.pdf) to download the most recent_ `.pdf`
+_Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/master/Leon-Hunter-Public-Portfolio.pdf) to download the most recent_ .pdf
 
 
 
@@ -15,13 +15,13 @@ _Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/maste
 ## About
 
 ### Contact Information
-* **Phone**: `(302) 312-4489`
-* **Email**: [`xleonhunter@gmail.com`](mailto:xleonhunter@gmail.com)
+* **Phone**: (302) 312-4489
+* **Email**: xleonhunter@gmail.com(mailto:xleonhunter@gmail.com)
 * **Website:** [https://curriculeon.github.io/Curriculeon/](https://curriculeon.github.io/Curriculeon/)
 * **LinkedIn:** [https://www.linkedin.com/in/leon-hunter](https://www.linkedin.com/in/leon-hunter)
 * **Github Organization Ownership**
-    * [`https://github.com/curriculeon`](https://github.com/curriculeon)
-    * [`https://github.com/git-leon`](https://github.com/git-leon)
+    * [https://github.com/curriculeon](https://github.com/curriculeon)
+    * [https://github.com/git-leon](https://github.com/git-leon)
 
 ### Education
 * Delaware State University (2011 - 2015)
@@ -68,8 +68,8 @@ Strong information technology professional with a Bachelor of Science (BS) focus
     
 ### Leonium.jar: A Selenium and ExtentReport Wrapper Library
 * [Leonium](https://github.com/Git-Leon/leonium) is an [uber jar](https://curriculeon.github.io/Curriculeon/lectures/java/build-automation/maven/uber-jar/content.html) deployed on [packagecloud.io](https://packagecloud.io/git-leon/utils/) that is used to automate Selenium build configuration and script development.
-* The library includes [an embedded `.jar` used for dynamically downloading driver binaries](https://github.com/bonigarcia/webdrivermanager)
-    * This allows this framework to run `GeckoDriver`, `ChromeDriver`, `PhantomDriver`, `HtmlUnitDriver` without downloading any external dependencies
+* The library includes [an embedded .jar used for dynamically downloading driver binaries](https://github.com/bonigarcia/webdrivermanager)
+    * This allows this framework to run GeckoDriver, ChromeDriver, PhantomDriver, HtmlUnitDriver without downloading any external dependencies
 * The library also includes mechanisms for
     * enabling logging for each web-interaction
     * enabling [reporting using ExtentReports](https://github.com/Git-Leon/leonium/tree/master/src/main/java/com/github/git_leon/leonium/browsertools/browserhandler/reporting) for aggregating results
@@ -90,8 +90,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 
 ## Experience:
 ### Vice President Software Engineer
-#### Real-Time Kafka Ingestion for Lending Innovation  
-**JPMorgan Chase, Consumer & Community Banking; Wilmington, DE.**  
+### JPMorgan Chase, Consumer & Community Banking; Wilmington, DE.
 **July 2024 – Present**
 
 - Independently designed, developed, and deployed a real-time data ingestion microservice responsible for consuming loan transaction events from Apache Kafka, validating and transforming them, and persisting them to Apache Cassandra for downstream lending analytics and reporting.  
@@ -135,14 +134,13 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 <div class="pagebreak"> </div>
 
 ### Vice President Software Engineer
-#### Card Transaction History API Modernization  
-**JPMorgan Chase, Consumer & Community Banking; Wilmington, DE.**  
+#### JPMorgan Chase, Consumer & Community Banking; Wilmington, DE.
 **June 2023 – July 2024**
 
-- Led and performed the majority of the full-stack rewrite of a high-traffic credit card transaction history REST API, migrating from a legacy Java 11 / Spring Boot 2 codebase to a modern Java 17 / Spring Boot 3 architecture.  
+- Led and performed the majority of the full-stack rewrite of a high-traffic card transaction history REST API, migrating from a legacy Java 11 / Spring Boot 2 codebase to a modern Java 17 / Spring Boot 3 architecture.  
 - Rewrote both the shared common library (used across multiple card services) and the primary transaction history API that depends on it.  
 - Upgraded the API contract from v3 to v4 using OpenAPI 3.0 code generation, replacing legacy Swagger 2 annotations with modern OpenAPI specifications.  
-- Migrated the servlet layer from `javax` to `jakarta` namespaces as part of the Spring Boot 3 upgrade.  
+- Migrated the servlet layer from javax to jakarta namespaces as part of the Spring Boot 3 upgrade.  
 - Replaced legacy Hystrix circuit breakers with Resilience4j for improved fault tolerance and configurability.  
 - Introduced dynamic runtime configuration to toggle feature flags and routing behavior without redeployment.  
 - Implemented bidirectional contract testing using PactFlow to ensure API compatibility across consumer and provider services.  
@@ -177,12 +175,11 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 - Swagger UI / Springdoc OpenAPI  
 
 
-
 <div class="pagebreak"> </div>
 
 ### Vice President Software Engineer
 #### JPMorgan Chase, Chief Technology Office; Wilmington, DE.
-##### December 2021 - August
+##### December 2021 - August 2023
 * Member of the Artifacts Engineering team.
 - Created systems to migrate artifacts from legacy NAS mounts to AWS EKS Artifactory artifacts using Spring Boot and GraphQL.
 - Monitored traffic and proactively flipped active instances of Artifactory to redirect traffic using AppViewX when nodes become overwhelmed with traffic.
