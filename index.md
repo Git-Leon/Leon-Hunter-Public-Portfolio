@@ -101,7 +101,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 - Implemented Spring Retry with exponential backoff and Cassandra downgrade-consistency policies for resilient writes under partial cluster failures.  
 - Developed a non-production REST controller to allow manual event injection for integration testing and FMEA (Failure Mode and Effects Analysis) scenarios.  
 - Configured Kerberos-authenticated Cassandra connections for secure database access across all environments.  
-- Containerized the application using Docker with Oracle JDK 21 managed base images and deployed to Kubernetes (GKP) with Kustomize-based multi-environment overlay configurations.  
+- Containerized the application using Docker with Oracle JDK 21 managed base images and deployed to Kubernetes with Kustomize-based multi-environment overlay configurations.  
 - Integrated Dynatrace and Micrometer for observability, tracking Kafka consumer lag, fetch rates, commit rates, and HTTP request metrics.  
 
 #### Technologies Used
@@ -147,7 +147,7 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 - Added Cucumber BDD integration tests for acceptance-level validation of transaction query flows.  
 - Enhanced transaction enrichment with rewards data and third-party order detail integration alongside existing merchant reference lookups.  
 - Designed Spring Integration message-routing pipelines to orchestrate requests across dual data sources (mainframe system of record and Cassandra operational data store) with configurable failover logic.  
-- Maintained and improved Apache Cassandra data access layer, including encrypted field storage using Jasypt and custom key providers.  
+- Maintained and improved Apache Cassandra data access layer, including encrypted field storage using and custom key providers.  
 
 #### Technologies Used
 - Java 17 (upgraded from Java 11)  
@@ -165,7 +165,6 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 - Hystrix (legacy, replaced with Resilience4j)  
 - Jackson (JSON serialization with JSR-310 date/time support)  
 - Lombok  
-- Jasypt (field-level encryption)  
 - JaCoCo (code coverage enforcement)  
 - Maven  
 - Jenkins (CI/CD pipelines)  
