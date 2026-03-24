@@ -89,11 +89,95 @@ Strong information technology professional with a Bachelor of Science (BS) focus
 <div class="pagebreak"> </div>
 
 ## Experience:
+### Vice President Software Engineer
+#### Real-Time Kafka Ingestion for Lending Innovation  
+**JPMorgan Chase, Consumer & Community Banking; Wilmington, DE.**  
+**July 2024 – Present**
+
+- Independently designed, developed, and deployed a real-time data ingestion microservice responsible for consuming loan transaction events from Apache Kafka, validating and transforming them, and persisting them to Apache Cassandra for downstream lending analytics and reporting.  
+- Sole developer and owner of the full software development lifecycle — from requirements gathering and architecture design through production deployment and support.  
+- Built an event-driven Kafka consumer that processes Avro-serialized loan transaction events with manual offset acknowledgment for exactly-once delivery semantics.  
+- Designed and implemented a composite field validation framework using a pluggable validator pattern, collecting all validation errors before rejecting a message.  
+- Created a multi-layer mapping pipeline to transform upstream Avro event schemas into Cassandra-optimized entity models with composite partition and clustering keys for efficient time-series queries.  
+- Implemented Spring Retry with exponential backoff and Cassandra downgrade-consistency policies for resilient writes under partial cluster failures.  
+- Developed a non-production REST controller to allow manual event injection for integration testing and FMEA (Failure Mode and Effects Analysis) scenarios.  
+- Configured Kerberos-authenticated Cassandra connections for secure database access across all environments.  
+- Containerized the application using Docker with Oracle JDK 21 managed base images and deployed to Kubernetes (GKP) with Kustomize-based multi-environment overlay configurations.  
+- Integrated Dynatrace and Micrometer for observability, tracking Kafka consumer lag, fetch rates, commit rates, and HTTP request metrics.  
+
+#### Technologies Used
+- Java 21  
+- Spring Boot 3.4 (Spring Framework 6)  
+- Spring Kafka (manual acknowledgment, virtual threads)  
+- Apache Kafka (event streaming, consumer groups)  
+- Apache Avro (schema-driven serialization)  
+- Confluent Schema Registry  
+- Spring Data Cassandra  
+- Apache Cassandra (CQL, composite partition keys, clustering columns)  
+- Spring Retry (exponential backoff, downgrade-consistency)  
+- Spring Security (SecurityFilterChain)  
+- Spring Boot Actuator  
+- Kerberos (GSSAPI authentication for Cassandra)  
+- Jackson (JSON serialization with JSR-310 date/time support)  
+- Micrometer (metrics collection)  
+- Dynatrace (APM and observability)  
+- JUnit 5, Mockito  
+- Embedded Cassandra (integration testing)  
+- Spring Kafka Test  
+- JaCoCo (code coverage enforcement)  
+- Maven  
+- Docker (Oracle JDK 21 managed base image)  
+- Kubernetes (GKP) with Kustomize overlays  
+- Jenkins (CI/CD pipelines)  
+- Bruno (API testing collections)  
+- Lombok  
 
 
 ### Vice President Software Engineer
+#### Card Transaction History API Modernization  
+**JPMorgan Chase, Consumer & Community Banking; Wilmington, DE.**  
+**June 2023 – July 2024**
+
+- Led and performed the majority of the full-stack rewrite of a high-traffic credit card transaction history REST API, migrating from a legacy Java 11 / Spring Boot 2 codebase to a modern Java 17 / Spring Boot 3 architecture.  
+- Rewrote both the shared common library (used across multiple card services) and the primary transaction history API that depends on it.  
+- Upgraded the API contract from v3 to v4 using OpenAPI 3.0 code generation, replacing legacy Swagger 2 annotations with modern OpenAPI specifications.  
+- Migrated the servlet layer from `javax` to `jakarta` namespaces as part of the Spring Boot 3 upgrade.  
+- Replaced legacy Hystrix circuit breakers with Resilience4j for improved fault tolerance and configurability.  
+- Introduced dynamic runtime configuration to toggle feature flags and routing behavior without redeployment.  
+- Implemented bidirectional contract testing using PactFlow to ensure API compatibility across consumer and provider services.  
+- Added Cucumber BDD integration tests for acceptance-level validation of transaction query flows.  
+- Enhanced transaction enrichment with rewards data and third-party order detail integration alongside existing merchant reference lookups.  
+- Designed Spring Integration message-routing pipelines to orchestrate requests across dual data sources (mainframe system of record and Cassandra operational data store) with configurable failover logic.  
+- Maintained and improved Apache Cassandra data access layer, including encrypted field storage using Jasypt and custom key providers.  
+
+#### Technologies Used
+- Java 17 (upgraded from Java 11)  
+- Spring Boot 3 (Spring Framework 6)  
+- Spring Integration (message gateway, channel routing, publish-subscribe)  
+- Spring Data Cassandra  
+- Apache Cassandra (CQL)  
+- Apache Kafka (Avro serialization, Confluent Schema Registry)  
+- OpenAPI 3.0 / OpenAPI Generator (code-first contract generation)  
+- Resilience4j (circuit breaker, retry, rate limiter)  
+- PactFlow (bidirectional contract testing)  
+- Cucumber (BDD integration testing)  
+- REST Assured (API integration testing)  
+- JUnit 5, Mockito, PowerMock  
+- Hystrix (legacy, replaced with Resilience4j)  
+- Jackson (JSON serialization with JSR-310 date/time support)  
+- Lombok  
+- Jasypt (field-level encryption)  
+- JaCoCo (code coverage enforcement)  
+- Maven  
+- Jenkins (CI/CD pipelines)  
+- Kubernetes (GKP)  
+- Docker  
+- SonarQube  
+- Swagger UI / Springdoc OpenAPI  
+
+### Vice President Software Engineer
 #### JPMorgan Chase, Chief Technology Office; Wilmington, DE.
-##### December 2021 - present
+##### December 2021 - August
 * Member of the Artifacts Engineering team.
 - Created systems to migrate artifacts from legacy NAS mounts to AWS EKS Artifactory artifacts using Spring Boot and GraphQL.
 - Monitored traffic and proactively flipped active instances of Artifactory to redirect traffic using AppViewX when nodes become overwhelmed with traffic.
