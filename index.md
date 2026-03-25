@@ -15,13 +15,13 @@ _Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/maste
 ## About
 
 ### Contact Information
-* **Phone**: `(302) 312-4489`
-* **Email**: [`xleonhunter@gmail.com`](mailto:xleonhunter@gmail.com)
+* **Phone**: (302) 312-4489
+* **Email**: [xleonhunter@gmail.com](mailto:xleonhunter@gmail.com)
 * **Website:** [https://curriculeon.github.io/Curriculeon/](https://curriculeon.github.io/Curriculeon/)
 * **LinkedIn:** [https://www.linkedin.com/in/leon-hunter](https://www.linkedin.com/in/leon-hunter)
 * **Github Organization Ownership**
-    * [`https://github.com/curriculeon`](https://github.com/curriculeon)
-    * [`https://github.com/git-leon`](https://github.com/git-leon)
+    * [https://github.com/curriculeon](https://github.com/curriculeon)
+    * [https://github.com/git-leon](https://github.com/git-leon)
 
 ### Education
 * Delaware State University (2011 - 2015)
@@ -49,6 +49,7 @@ Currently serving as Vice President of Software Engineering at JPMorgan Chase, l
    </tr>
 </table>
 
+<div class="pagebreak"> </div>
 
 ### Core Competencies
 
@@ -60,7 +61,7 @@ Currently serving as Vice President of Software Engineering at JPMorgan Chase, l
 | Data Platform Engineering (Kafka, Cassandra) | Open-Source Community Building | Infrastructure-as-Code & GitOps |
 
 
-<div class="pagebreak"> </div>
+
 
 
 ## Open-Source Platform Initiatives
@@ -101,7 +102,7 @@ Currently serving as Vice President of Software Engineering at JPMorgan Chase, l
 #### Platform & Technologies
 Java 21 · Spring Boot 3.4 · Spring Kafka · Apache Kafka · Apache Avro · Confluent Schema Registry · Spring Data Cassandra · Apache Cassandra · Spring Retry · Spring Security · Kerberos · Micrometer · Dynatrace · JUnit 5 · Mockito · JaCoCo · Maven · Docker · Kubernetes (GKP) · Kustomize · Jenkins
 
-<div class="pagebreak"> </div>
+
 
 ### Vice President, Software Engineer — Platform Lead, Card Transaction History Modernization
 #### JPMorgan Chase, Consumer & Community Banking; Wilmington, DE.
@@ -139,7 +140,7 @@ Artifactory · AWS EKS · Prometheus · AppDynamics · Grafana · JFrog CLI · A
 - Designed and delivered a university-level course on advanced data structures and algorithms ([syllabus](https://curriculeon.github.io/syllabus.datastructures2/)), building the next generation of computer science talent.
 - Developed comprehensive lesson plans, coding exercises, and assessment frameworks to measure student progress and competency.
 
-<div class="pagebreak"> </div>
+
 
 ## Engineering Enablement & Technical Leadership
 
@@ -158,6 +159,7 @@ Artifactory · AWS EKS · Prometheus · AppDynamics · Grafana · JFrog CLI · A
 - Led a technical incubator program advising aspiring technopreneurs on product architecture, technical feasibility, and development strategy.
 - Provided hands-on technical guidance and connected consultants with engineering resources to accelerate product development.
 
+<div class="pagebreak"> </div>
 
 ### Lead Technical Instructor — Cloud DevOps & Full Stack Engineering
 #### Per Scholas; Multiple Locations (Remote)
@@ -177,7 +179,7 @@ Artifactory · AWS EKS · Prometheus · AppDynamics · Grafana · JFrog CLI · A
 - Curricula adopted as the standard for Per Scholas's national expansion of engineering training programs.
 
 
-<div class="pagebreak"> </div>
+
 
 ### Lead Technical Instructor
 #### TalentPath: Full Stack Java Engineering Course
@@ -191,12 +193,13 @@ Artifactory · AWS EKS · Prometheus · AppDynamics · Grafana · JFrog CLI · A
 - Designed lesson plans, lecture sequences, and hands-on exercises covering full-stack development fundamentals.
 
 
-### Lead Software Engineer & Co-Founder
-#### Scriptcasters.com — OverseasBasketballConnection.com
+### Lead Software Engineer
+#### OverseasBasketballConnection.com
 ##### January 2020 – May 2020; Wilmington, DE.
-- Co-founded Scriptcasters.com and led a development team to architect, build, and launch a 3-tier web platform connecting professional basketball players with overseas teams.
+- Led a development team to architect, build, and launch a 3-tier web platform connecting professional basketball players with overseas teams.
 - Owned end-to-end delivery of the backend (Java 8, Spring MVC, Spring Security), cloud infrastructure (AWS S3, Heroku), and test automation (Selenium).
 - Platform included agent job posting, player profile/application, and a full administrative portal — adopted by the client and actively used in production.
+
 
 
 <div class="pagebreak"> </div>
