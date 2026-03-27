@@ -34,15 +34,6 @@ footer p:nth-child(2) {
     width: 100%;
   }
 
-  p,
-  ul,
-  ol,
-  table,
-  pre,
-  dl {
-    color: #222;
-  }
-
   h1 {
     color: #1a1a1a;
   }
@@ -114,13 +105,16 @@ section {
 }
 
 
-p,
+
 ul,
 ol,
 table,
 pre,
 dl {
-  color: antiquewhite
+  color: white;
+  font-weight: 500;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 header {
@@ -177,7 +171,6 @@ a {
 }
 
 .wrapper {
-  color: rgb(178, 172, 162);
   background-color: rgb(34, 37, 39);
   background-image: none;
   box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 0px 1px, rgba(0, 0, 0, 0.45) 0px 3px 10px

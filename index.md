@@ -1,4 +1,5 @@
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="./assets/css/github-badges-style.css" />
 
 _Click [here](https://git-leon.github.io/Leon-Hunter-Public-Portfolio/) to view this document online_ <br>
 _Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/master/Leon-Hunter-Public-Portfolio.pdf) to download the most recent_ .pdf
@@ -9,8 +10,8 @@ _Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/maste
 # Enterprise Platform Leader · Engineering Enablement Strategist
 
 
-  <div id="github-widget" data-user="your-github-username" data-display="pop_repos,calendar"></div>
-  <script src="https://gh-widget.oyanglul.us/index.js"></script>
+<div id="github-widget" data-user="git-leon" data-display="pop_repos,calendar"></div>
+<script src="https://gh-widget.oyanglul.us/index.js"></script>
 
 ## About
 
@@ -37,21 +38,11 @@ Distinctive strength in engineering enablement: designed and scaled technical cu
 
 Currently serving as Vice President of Software Engineering at JPMorgan Chase, leading platform architecture for consumer lending and card transaction systems processing millions of events daily.
 
-
-<table>
-   <tr>
-      <td>
-         <img alt="Git-Leon's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=git-leon&show_icons=true&theme=dracula">         
-      </td>
-      <td>
-         <img alt="Git-Leon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-leon&layout=compact&theme=dracula&hide=roff,tsql,c">
-      </td>
-   </tr>
-</table>
-
 <div class="pagebreak"> </div>
 
-### Core Competencies
+
+
+## Core Competencies
 
 | Platform & Architecture | Leadership & Enablement | DevOps & Delivery |
 |---|---|---|
@@ -59,9 +50,6 @@ Currently serving as Vice President of Software Engineering at JPMorgan Chase, l
 | Cloud-Native Platform Design (AWS, GKP) | Technical Curriculum & Standards Development | Observability & SRE (Dynatrace, Micrometer, Grafana) |
 | API Modernization & Contract-First Design | Cross-Functional Stakeholder Alignment | Containerization & Orchestration |
 | Data Platform Engineering (Kafka, Cassandra) | Open-Source Community Building | Infrastructure-as-Code & GitOps |
-
-
-
 
 
 ## Open-Source Platform Initiatives
@@ -80,6 +68,12 @@ Currently serving as Vice President of Software Engineering at JPMorgan Chase, l
 
 ### OpenCVL — Computer Vision & Machine Learning Library
 * Designed [OpenCVL](https://github.com/Git-Leon/opencvl), an open-source wrapper for [OpenCV](https://opencv.org/opencv-now-supports-desktop-java/) with [Haar Cascade machine learning](https://ieeexplore.ieee.org/abstract/document/990517), simplifying object detection implementation through factory patterns and dependency injection.
+
+
+<div id="github-badges"></div>
+<script src="./assets/js/github-badges-service.js"></script>
+
+
 
 
 <div class="pagebreak"> </div>
@@ -102,7 +96,7 @@ Currently serving as Vice President of Software Engineering at JPMorgan Chase, l
 #### Platform & Technologies
 Java 21 · Spring Boot 3.4 · Spring Kafka · Apache Kafka · Apache Avro · Confluent Schema Registry · Spring Data Cassandra · Apache Cassandra · Spring Retry · Spring Security · Kerberos · Micrometer · Dynatrace · JUnit 5 · Mockito · JaCoCo · Maven · Docker · Kubernetes (GKP) · Kustomize · Jenkins
 
-
+<div class="pagebreak"> </div>
 
 ### Vice President, Software Engineer — Platform Lead, Card Transaction History Modernization
 #### JPMorgan Chase, Consumer & Community Banking; Wilmington, DE.
@@ -121,7 +115,6 @@ Java 21 · Spring Boot 3.4 · Spring Kafka · Apache Kafka · Apache Avro · Con
 Java 17 · Spring Boot 3 · Spring Integration · Spring Data Cassandra · Apache Cassandra · Apache Kafka · Avro · OpenAPI 3.0 · Resilience4j · PactFlow · Cucumber · REST Assured · JUnit 5 · Mockito · JaCoCo · Maven · Jenkins · Kubernetes (GKP) · Docker · SonarQube
 
 
-<div class="pagebreak"> </div>
 
 ### Vice President, Software Engineer — Artifacts Platform Engineering
 #### JPMorgan Chase, Chief Technology Office; Wilmington, DE.
@@ -134,15 +127,18 @@ Java 17 · Spring Boot 3 · Spring Integration · Spring Data Cassandra · Apach
 #### Platform & Technologies
 Artifactory · AWS EKS · Prometheus · AppDynamics · Grafana · JFrog CLI · AppViewX · Spring Boot · GraphQL · Docker
 
+
+
+<div class="pagebreak"> </div>
+
+
+## Engineering Enablement & Technical Leadership
+
 ### Adjunct Professor — Advanced Data Structures & Algorithms
 #### Delaware State University; Dover, DE.
 ##### January 2023 – May 2023
 - Designed and delivered a university-level course on advanced data structures and algorithms ([syllabus](https://curriculeon.github.io/syllabus.datastructures2/)), building the next generation of computer science talent.
 - Developed comprehensive lesson plans, coding exercises, and assessment frameworks to measure student progress and competency.
-
-
-
-## Engineering Enablement & Technical Leadership
 
 ### Senior Technical Instructor & Curriculum Lead
 #### Zip Code Wilmington; Wilmington, DE.
@@ -169,6 +165,7 @@ Artifactory · AWS EKS · Prometheus · AppDynamics · Grafana · JFrog CLI · A
 - Created 65+ structured GitHub repositories with branching rules and CI workflows, cumulating [500+ contributions in a single 14-week program](https://github.com/Git-Leon?from=2020-10-01&to=2020-10-25&org=platformps&year_list=1#year-link-2020) — establishing a deploy-on-day-1 engineering culture.
 - Managed cohorts through the development of 20+ full-stack applications using Java, Spring Boot, ReactJS, Angular, and AWS (S3, EC2, Cloud9, Heroku).
 - Topics covered: GitOps, Shell scripting, SQL, TDD, Python, CI/CD, Docker, Kubernetes, AWS (Terraform, ECS, EKS, Lightsail, EC2).
+
 
 ### Curriculum Developer — Cloud DevOps & Full Stack Engineering
 #### Per Scholas
@@ -200,9 +197,6 @@ Artifactory · AWS EKS · Prometheus · AppDynamics · Grafana · JFrog CLI · A
 - Owned end-to-end delivery of the backend (Java 8, Spring MVC, Spring Security), cloud infrastructure (AWS S3, Heroku), and test automation (Selenium).
 - Platform included agent job posting, player profile/application, and a full administrative portal — adopted by the client and actively used in production.
 
-
-
-<div class="pagebreak"> </div>
 
 ## Early Career
 

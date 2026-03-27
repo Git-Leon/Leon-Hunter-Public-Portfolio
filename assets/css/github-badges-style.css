@@ -1,0 +1,436 @@
+#github-badges {
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+#github-badges .github-badges-table {
+  width: 100%;
+  max-width: 100%;
+  border-collapse: separate;
+  border-spacing: 16px 0;
+  margin: 0;
+  table-layout: fixed;
+}
+
+#github-badges .github-badges-table td {
+  vertical-align: top;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#github-badges .github-badges-table td:first-child {
+  width: 62%;
+}
+
+#github-badges .github-badges-table td:last-child {
+  width: 38%;
+}
+
+#github-badges .github-badges-table img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  box-sizing: border-box;
+}
+
+.github-badges-fallback {
+  --bg: transparent;
+  --card-bg: #252739;
+  --card-border: rgba(255, 255, 255, 0.78);
+  --title-pink: #ff5c98;
+  --text: #ffffff;
+  --muted: rgba(255, 255, 255, 0.92);
+  --icon: #75d7ff;
+
+  --java: #c8872f;
+  --html: #f0533a;
+  --css: #6d3db5;
+  --js: #eadb5a;
+  --ts: #2f7fdc;
+  --bat: #b8ec44;
+
+  width: 100%;
+  max-width: 100%;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Segoe UI", "Trebuchet MS", "Helvetica Neue", Arial, sans-serif;
+  box-sizing: border-box;
+}
+
+.github-badges-fallback *,
+.github-badges-fallback *::before,
+.github-badges-fallback *::after {
+  box-sizing: border-box;
+}
+
+.github-badges-fallback-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.56fr) minmax(0, 1fr);
+  gap: 16px;
+  align-items: start;
+  width: 100%;
+  max-width: 100%;
+}
+
+.github-badges-fallback .gh-card {
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 6px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.github-badges-fallback .stats-card {
+  padding: 16px 18px 16px 18px;
+  min-height: 0;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 120px;
+  gap: 12px;
+  align-items: center;
+}
+
+.github-badges-fallback .lang-card {
+  padding: 16px 18px 16px 18px;
+  min-height: 0;
+}
+
+.github-badges-fallback .gh-card-title {
+  margin: 0 0 16px 0;
+  color: var(--title-pink);
+  font-size: 18px;
+  line-height: 1.15;
+  font-weight: 700;
+  letter-spacing: -0.2px;
+}
+
+.github-badges-fallback .stats-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  min-width: 0;
+}
+
+.github-badges-fallback .stats-row {
+  display: grid;
+  grid-template-columns: 18px minmax(0, 1fr) auto;
+  gap: 10px;
+  align-items: start;
+  margin: 0 0 10px 0;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.25;
+  font-weight: 700;
+  min-width: 0;
+}
+
+.github-badges-fallback .stats-row:last-child {
+  margin-bottom: 0;
+}
+
+.github-badges-fallback .stats-row > span:nth-child(2) {
+  min-width: 0;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+.github-badges-fallback .stats-icon {
+  width: 18px;
+  height: 18px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1px;
+}
+
+.github-badges-fallback .stats-icon svg {
+  width: 18px;
+  height: 18px;
+  stroke: var(--icon);
+  fill: none;
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.github-badges-fallback .stats-value {
+  min-width: 28px;
+  text-align: right;
+  color: #ffffff;
+  font-weight: 800;
+  letter-spacing: 0.1px;
+  white-space: nowrap;
+}
+
+.github-badges-fallback .grade-ring-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+}
+
+.github-badges-fallback .grade-ring {
+  width: 96px;
+  height: 96px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.github-badges-fallback .grade-ring svg {
+  width: 96px;
+  height: 96px;
+  display: block;
+  transform: rotate(-90deg);
+}
+
+.github-badges-fallback .grade-ring .track {
+  stroke: #5f3553;
+  opacity: 0.82;
+  stroke-width: 9;
+  fill: none;
+}
+
+.github-badges-fallback .grade-ring .progress {
+  stroke: #e85d8e;
+  stroke-width: 9;
+  fill: none;
+  stroke-linecap: round;
+  stroke-dasharray: 251.2;
+  stroke-dashoffset: 47.7;
+}
+
+.github-badges-fallback .grade-ring-center {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #f1f0ea;
+  font-size: 18px;
+  font-weight: 800;
+  letter-spacing: 0.3px;
+}
+
+.github-badges-fallback .lang-bar {
+  margin-top: 4px;
+  width: 100%;
+  max-width: 100%;
+  height: 8px;
+  border-radius: 999px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.08);
+  display: flex;
+}
+
+.github-badges-fallback .lang-seg {
+  height: 100%;
+}
+
+.github-badges-fallback .lang-java { width: 60.53%; background: var(--java); }
+.github-badges-fallback .lang-html { width: 20.74%; background: var(--html); }
+.github-badges-fallback .lang-css  { width: 8.25%; background: var(--css); }
+.github-badges-fallback .lang-js   { width: 5.09%; background: var(--js); }
+.github-badges-fallback .lang-ts   { width: 3.95%; background: var(--ts); }
+.github-badges-fallback .lang-bat  { width: 1.44%; background: var(--bat); }
+
+.github-badges-fallback .lang-grid {
+  margin-top: 16px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  column-gap: 18px;
+  row-gap: 10px;
+}
+
+.github-badges-fallback .lang-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #ffffff;
+  font-size: 12px;
+  line-height: 1.25;
+  min-width: 0;
+}
+
+.github-badges-fallback .lang-item span:last-child {
+  min-width: 0;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+.github-badges-fallback .lang-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex: 0 0 10px;
+}
+
+.github-badges-fallback .dot-java { background: var(--java); }
+.github-badges-fallback .dot-html { background: var(--html); }
+.github-badges-fallback .dot-css  { background: var(--css); }
+.github-badges-fallback .dot-js   { background: var(--js); }
+.github-badges-fallback .dot-ts   { background: var(--ts); }
+.github-badges-fallback .dot-bat  { background: var(--bat); }
+
+@media (max-width: 1100px) {
+  .github-badges-fallback .stats-card {
+    grid-template-columns: minmax(0, 1fr) 96px;
+  }
+
+  .github-badges-fallback .grade-ring {
+    width: 84px;
+    height: 84px;
+  }
+
+  .github-badges-fallback .grade-ring svg {
+    width: 84px;
+    height: 84px;
+  }
+
+  .github-badges-fallback .grade-ring-center {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 860px) {
+  #github-badges .github-badges-table {
+    border-spacing: 0;
+  }
+
+  #github-badges .github-badges-table,
+  #github-badges .github-badges-table tbody,
+  #github-badges .github-badges-table tr,
+  #github-badges .github-badges-table td {
+    display: block;
+    width: 100% !important;
+  }
+
+  #github-badges .github-badges-table td + td {
+    margin-top: 16px;
+  }
+
+  .github-badges-fallback-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .github-badges-fallback .stats-card {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+
+  .github-badges-fallback .grade-ring-wrap {
+    justify-content: flex-start;
+  }
+
+  .github-badges-fallback .lang-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media print {
+  #github-badges {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    overflow: visible;
+  }
+
+  .github-badges-fallback {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .github-badges-fallback-grid {
+    display: grid !important;
+    grid-template-columns: 60% 40% !important;
+    gap: 12px !important;
+    align-items: start;
+    width: 100%;
+  }
+
+  .github-badges-fallback .gh-card {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .github-badges-fallback .stats-card {
+    grid-template-columns: minmax(0, 1fr) 82px !important;
+    gap: 10px;
+    padding: 12px 14px;
+  }
+
+  .github-badges-fallback .lang-card {
+    padding: 12px 14px;
+  }
+
+  .github-badges-fallback .gh-card-title {
+    font-size: 13px;
+    margin-bottom: 12px;
+  }
+
+  .github-badges-fallback .stats-row {
+    grid-template-columns: 14px minmax(0, 1fr) auto;
+    gap: 7px;
+    margin-bottom: 7px;
+    font-size: 10px;
+    line-height: 1.15;
+  }
+
+  .github-badges-fallback .stats-icon {
+    width: 14px;
+    height: 14px;
+  }
+
+  .github-badges-fallback .stats-icon svg {
+    width: 14px;
+    height: 14px;
+  }
+
+  .github-badges-fallback .stats-value {
+    min-width: 20px;
+    font-size: 10px;
+  }
+
+  .github-badges-fallback .grade-ring {
+    width: 66px;
+    height: 66px;
+  }
+
+  .github-badges-fallback .grade-ring svg {
+    width: 66px;
+    height: 66px;
+  }
+
+  .github-badges-fallback .grade-ring-center {
+    font-size: 14px;
+  }
+
+  .github-badges-fallback .lang-bar {
+    height: 6px;
+    margin-top: 2px;
+  }
+
+  .github-badges-fallback .lang-grid {
+    grid-template-columns: 1fr 1fr !important;
+    column-gap: 12px;
+    row-gap: 7px;
+    margin-top: 12px;
+  }
+
+  .github-badges-fallback .lang-item {
+    gap: 6px;
+    font-size: 9px;
+    line-height: 1.15;
+  }
+
+  .github-badges-fallback .lang-dot {
+    width: 8px;
+    height: 8px;
+    flex-basis: 8px;
+  }
+}

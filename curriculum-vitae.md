@@ -9,7 +9,7 @@ _Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/maste
 # Senior Technical Curriculum Developer
 
 
-  <div id="github-widget" data-user="your-github-username" data-display="pop_repos,calendar"></div>
+  <div id="github-widget" data-user="git-leon" data-display="pop_repos,calendar"></div>
   <script src="https://gh-widget.oyanglul.us/index.js"></script>
 
 ## About
