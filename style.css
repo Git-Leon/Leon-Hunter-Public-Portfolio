@@ -1,4 +1,69 @@
 /* written by Leon Hunter */
+/* Centralized color variables */
+:root {
+  /* Backgrounds */
+  --color-white: #ffffff;
+  --color-page-dark-bg: #181a1b;
+  --color-wrapper-bg: rgb(34, 37, 39);
+
+  /* Print / light backgrounds */
+  --color-print-bg: #ffffff;
+  --color-print-section-border: #dddddd;
+
+  /* Text colors */
+  --color-text-default: #ffffff;
+  --color-text-strong: #ffffff;
+  --color-footer-text: #555555;
+  --color-heading-print: #1a1a1a;
+  --color-h4-print: #333333;
+  --color-h5h6-print: #444444;
+
+  /* Links & accents */
+  --color-link-default: #0366d6;
+  --color-link-bright: rgb(97, 202, 255);
+
+  /* UI / borders */
+  --color-header-border-print: #cccccc;
+  --color-hr: #aaaaaa;
+
+  /* Header / CTA palette */
+  --color-header-bg: rgb(27, 87, 72);
+  --color-header-border: rgb(38, 78, 97);
+  --color-cta-border: #3aafbe;
+  --color-cta-border-override: rgb(42, 138, 114);
+  --color-cta-gradient-start: #77b9fb;
+  --color-cta-gradient-end: #3782cd;
+
+  /* Headings / accents */
+  --color-h1: rgb(83, 189, 202);
+  --color-h2: rgb(103, 234, 169);
+  --color-h3: #00c462;
+  --color-h4: #008d76;
+  --color-h5h6: #00753a;
+
+  /* Code / pre */
+  --color-code-text: rgb(200, 195, 188);
+  --color-code-bg: #f5f5f5;
+
+  /* Shadows */
+  --shadow-dark-text: rgba(24, 26, 27, 0.9);
+  --box-shadow-1: rgba(0, 0, 0, 0.2);
+  --box-shadow-2: rgba(0, 0, 0, 0.45);
+
+  /* Scrollbar */
+  --scrollbar-thumb: #202324;
+  --scrollbar-track: #454a4d;
+
+  /* Misc */
+  --blockquote-fallback: #cccccc;
+  --blockquote-bg: rgba(0, 0, 0, 0.06);
+  --kbd-bg: #fafbfc;
+  --kbd-border: #c6cbd1;
+  --kbd-border-bottom: #959da5;
+  --kbd-text: #444d56;
+  --strong-color: rgb(211, 207, 201);
+}
+
 header a,
 header ul,
 footer p:nth-child(2) {
@@ -10,172 +75,158 @@ footer p:nth-child(2) {
     page-break-before: always;
   }
 
-  /* page-break-after works, as well */
-
   html {
-    background: #fff;
+    background: var(--color-print-bg);
   }
 
   body {
-    background: #fff;
+    background: var(--color-print-bg);
     padding: 0;
   }
 
   section {
-    background: #fff;
-    border-top-color: #ddd;
+    background: var(--color-print-bg);
+    border-top-color: var(--color-print-section-border);
   }
 
   .wrapper {
-    color: #222;
-    background-color: #fff;
+    color: var(--color-text-default);
+    background-color: var(--color-print-bg);
     box-shadow: none;
     border-radius: 0;
     width: 100%;
   }
 
-  h1 {
-    color: #1a1a1a;
-  }
-
-  h2 {
-    color: #1a1a1a;
-  }
-
-  h3 {
-    color: #1a1a1a;
+  h1, h2, h3 {
+    color: var(--color-heading-print);
   }
 
   h4 {
-    color: #333;
+    color: var(--color-h4-print);
   }
 
-  h5,
-  h6 {
-    color: #444;
+  h5, h6 {
+    color: var(--color-h5h6-print);
   }
 
   a {
-    color: #0366d6;
+    color: var(--color-link-default);
     text-shadow: none;
   }
 
   code,
   pre {
-    color: #333;
-    background: #f5f5f5;
+    color: var(--color-h4-print);
+    background: var(--color-code-bg);
   }
 
   pre code {
-    color: #333;
+    color: var(--color-h4-print);
   }
 
   strong {
-    color: #111;
+    color: var(--color-text-strong);
   }
 
   header {
-    background-color: #fff;
+    background-color: var(--color-print-bg);
     background-image: none;
-    border-bottom-color: #ccc;
+    border-bottom-color: var(--color-header-border-print);
   }
 
   header h1 {
-    color: #1a1a1a;
+    color: var(--color-heading-print);
     text-shadow: none;
   }
 
   footer {
-    color: #555;
+    color: var(--color-footer-text);
   }
 
   footer a {
-    color: #0366d6;
+    color: var(--color-link-default);
   }
 }
 
-
 html,
 section {
-  background-color: #181a1b;
+  background-color: var(--color-page-dark-bg);
 }
 
 * {
-  scrollbar-color: #202324 #454a4d;
+  scrollbar-color: var(--scrollbar-thumb) var(--scrollbar-track);
 }
-
-
 
 ul,
 ol,
 table,
 pre,
 dl {
-  color: white;
+  color: var(--color-white);
   font-weight: 500;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 header {
-  background-color: rgb(27, 87, 72);
+  background-color: var(--color-header-bg);
   background-image: none;
-  border-bottom-color: rgb(38, 78, 97);
+  border-bottom-color: var(--color-header-border);
 }
 
 header ul li {
   width: 79px;
   float: left;
-  border-right: 1px solid #3aafbe;
-  border-right-color: rgb(42, 138, 114);
+  border-right: 1px solid var(--color-cta-border);
+  border-right-color: var(--color-cta-border-override);
   height: 38px;
-  text-shadow: rgba(24, 26, 27, 0.9) 0px 1px 0px;
+  text-shadow: var(--shadow-dark-text) 0px 1px 0px;
 }
 
 header h1 {
-  color: rgb(83, 189, 202);
-  text-shadow: rgba(24, 26, 27, 0.9) 0px 1px 0px;
+  color: var(--color-h1);
+  text-shadow: var(--shadow-dark-text) 0px 1px 0px;
 }
 
 h1 {
-  color: rgb(83, 189, 202);
+  color: var(--color-h1);
 }
 
 h2 {
-  color: rgb(103, 234, 169)
+  color: var(--color-h2);
 }
 
 h3 {
-  color: #00c462
+  color: var(--color-h3);
 }
 
 h4 {
-  color: #008d76;
+  color: var(--color-h4);
 }
 
 h5,
 h6 {
-  color: #00753a
+  color: var(--color-h5h6);
 }
-
 
 code,
 pre {
-  color: rgb(200, 195, 188);
+  color: var(--color-code-text);
 }
 
 a {
-  color: rgb(97, 202, 255);
+  color: var(--color-link-bright);
   text-decoration-color: currentcolor;
-  text-shadow: rgba(24, 26, 27, 0.9) 0px 1px 0px;
+  text-shadow: var(--shadow-dark-text) 0px 1px 0px;
 }
 
 .wrapper {
-  background-color: rgb(34, 37, 39);
+  background-color: var(--color-wrapper-bg);
   background-image: none;
-  box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 0px 1px, rgba(0, 0, 0, 0.45) 0px 3px 10px
+  box-shadow: var(--box-shadow-1) 0px 0px 0px 1px,
+              var(--box-shadow-2) 0px 3px 10px;
 }
 
 strong {
-  color: rgb(211, 207, 201)
+  color: var(--strong-color);
 }
