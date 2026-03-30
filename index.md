@@ -1,5 +1,6 @@
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 <link rel="stylesheet" type="text/css" media="all" href="./assets/css/github-badges-style.css" />
+<script src="https://gh-widget.oyanglul.us/index.js"></script>
 
 _Click [here](https://git-leon.github.io/Leon-Hunter-Public-Portfolio/) to view this document online_ <br>
 _Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/master/Leon-Hunter-Public-Portfolio.pdf) to download the most recent_ .pdf
@@ -9,9 +10,6 @@ _Click [here](https://github.com/Git-Leon/Leon-Hunter-Public-Portfolio/raw/maste
 # Vice President, Software Engineering
 # Enterprise Platform Leader · Engineering Enablement Strategist
 
-
-<div id="github-widget" data-user="git-leon" data-display="pop_repos,calendar"></div>
-<script src="https://gh-widget.oyanglul.us/index.js"></script>
 
 ## About
 
