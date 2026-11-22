@@ -42,6 +42,8 @@ Extensive background in technical instruction, curriculum architecture, develope
 
 Creator and maintainer of open-source educational resources and Java libraries, with a strong emphasis on software craftsmanship, automation, documentation, reproducibility, and developer productivity.
 
+Additional professional development in artificial intelligence, machine learning, generative AI, AI agents, and AI-assisted software development, supported by DataCamp certifications.
+
 Avid user and advocate of version control management systems, with [thousands of GitHub contributions in short periods of time](https://github.com/Git-Leon?tab=overview&from=2020-12-01&to=2020-12-31).
 
 ### Education
@@ -52,6 +54,49 @@ Dover, Delaware
 
 * Bachelor of Science (BS), Computer Science
 * Minor in Mathematics
+
+### Certifications & Professional Development
+
+#### Artificial Intelligence, Machine Learning & AI-Assisted Development
+
+**Understanding Machine Learning**  
+DataCamp | Issued September 2026
+
+* Completed foundational professional development in machine learning concepts.
+* Credential ID: `56381e2750629180eadcb4003df9ad9cee0779b8`
+
+**Understanding Artificial Intelligence**  
+DataCamp | Issued September 2026
+
+* Completed foundational professional development in artificial intelligence concepts and applications.
+* Credential ID: `07414e7aef8f601cb63267b19dfd845d542514af`
+
+**Software Development with Claude Code**  
+DataCamp | Issued September 2026
+
+* Completed professional development focused on AI-assisted software development using Claude Code.
+* Credential ID: `c7efeb6b6b27b99f3515d17b176ca793684717a6`
+
+**Generative AI Concepts**  
+DataCamp | Issued September 2026
+
+* Completed foundational professional development in generative artificial intelligence concepts.
+* Credential ID: `eb738022421c37368dd86f0cb0d23bb4005f29e2`
+
+**Introduction to AI Agents**  
+DataCamp | Issued September 2026
+
+* Completed introductory professional development in AI agent concepts.
+* Credential ID: `516234cb8314415018ddcfb3ef72b54d7d0b50f8`
+
+**Professional Development Focus Areas**
+
+* Artificial Intelligence Fundamentals
+* Machine Learning Fundamentals
+* Generative AI Concepts
+* AI Agents
+* AI-Assisted Software Development
+* Claude Code
 
 ---
 
@@ -251,6 +296,28 @@ Dover, Delaware
 * REST API Integration
 * Full Stack Web Application Development
 
+### Artificial Intelligence & Machine Learning
+
+**Formal Professional Development**
+
+* Artificial Intelligence Fundamentals
+* Machine Learning Fundamentals
+* Generative AI Concepts
+* Introduction to AI Agents
+* AI-Assisted Software Development
+* Claude Code
+
+**Related Technical & Research Experience**
+
+* Genetic Algorithms
+* Evolutionary Computation
+* Adaptive Optics
+* OpenCV
+* Haar Cascade Classifiers
+* Object Detection
+* Face Detection
+* Computer Vision Library Development
+
 ### Technical Leadership & Education
 
 * Enterprise Platform Ownership
@@ -306,6 +373,13 @@ The following accomplishments are consolidated from professional experience deta
 * Led technical instruction programs covering full-stack Java development, cloud computing, DevOps, and software engineering fundamentals.
 * Developed curricula, exercises, application projects, and instructional materials for professional software engineering training programs.
 * Mentored aspiring software engineers and supported their transition into professional engineering positions.
+
+### Artificial Intelligence & Computational Research
+
+* Completed five DataCamp certifications covering machine learning, artificial intelligence, generative AI, AI agents, and AI-assisted software development.
+* Developed an evolutionary algorithm for adaptive optics research using MATLAB.
+* Created a Java wrapper library for computer vision and object detection using OpenCV and Haar cascade classifiers.
+* Applied algorithmic programming and reusable software architecture techniques to research-oriented computing projects.
 
 <div id="github-badges"></div>
 <script src="./assets/js/github-badges-service.js"></script>
@@ -1174,6 +1248,7 @@ This section consolidates technologies and professional applications to support 
 **Technologies:** Java 8/11/17/21, Spring Boot, Spring MVC, Spring Security, Spring Integration, Spring Kafka, Spring Data Cassandra, Spring Data JPA, Spring Retry, Maven, Jakarta EE.
 
 **Representative Experience:**
+
 * JPMorgan Chase event management platform modernization.
 * JPMorgan Chase lending data ingestion platform.
 * JPMorgan Chase card transaction history API modernization.
@@ -1185,6 +1260,7 @@ This section consolidates technologies and professional applications to support 
 **Technologies:** Apache Kafka, Apache Avro, Confluent Schema Registry, Apache Cassandra, Spring Kafka, Spring Integration, Resilience4j.
 
 **Representative Experience:**
+
 * Real-time Kafka-based lending transaction ingestion.
 * Event validation and transformation pipelines.
 * Cassandra time-series data modeling.
@@ -1196,6 +1272,7 @@ This section consolidates technologies and professional applications to support 
 **Technologies:** AWS ECS Fargate, AWS EKS, AWS EC2, AWS S3, Amazon Aurora, Docker, Kubernetes, Kustomize, Terraform, Jenkins.
 
 **Representative Experience:**
+
 * Cloud-native event management microservice deployment.
 * Kubernetes-based lending ingestion service deployment.
 * Artifactory migration to AWS EKS.
@@ -1206,6 +1283,7 @@ This section consolidates technologies and professional applications to support 
 **Technologies:** Java 17/21, Spring Boot 3/4, OpenAPI 3.0, Jakarta EE, Resilience4j.
 
 **Representative Experience:**
+
 * Java 11 to Java 17 migration.
 * Spring Boot 2 to Spring Boot 3 migration.
 * Spring Boot 3 to Spring Boot 4.1 migration.
@@ -1218,6 +1296,7 @@ This section consolidates technologies and professional applications to support 
 **Technologies:** JUnit 5, Mockito, Selenium, TestNG, REST Assured, PactFlow, Cucumber, JaCoCo, SonarQube, ExtentReports.
 
 **Representative Experience:**
+
 * Enterprise contract testing.
 * API integration testing.
 * Automated acceptance testing.
@@ -1225,9 +1304,29 @@ This section consolidates technologies and professional applications to support 
 * Selenium automation framework development.
 * Browser automation library development.
 
+### Artificial Intelligence & Machine Learning
+
+**Professional Development:**
+
+* Understanding Machine Learning — DataCamp, September 2026.
+* Understanding Artificial Intelligence — DataCamp, September 2026.
+* Software Development with Claude Code — DataCamp, September 2026.
+* Generative AI Concepts — DataCamp, September 2026.
+* Introduction to AI Agents — DataCamp, September 2026.
+
+**Related Technical Experience:**
+
+* Genetic algorithm development for adaptive optics.
+* Evolutionary computation using MATLAB.
+* Computer vision library development using OpenCV.
+* Haar cascade classifier integration.
+* Object detection and face detection abstractions.
+* AI-assisted software development coursework.
+
 ### Technical Leadership & Education
 
 **Representative Experience:**
+
 * Enterprise application and platform ownership.
 * Independent software architecture and delivery.
 * Technical instruction for professional software engineering programs.
@@ -1252,6 +1351,8 @@ This section consolidates technologies and professional applications to support 
 
 This document is intended to serve as a comprehensive professional source of record.
 
-It preserves detailed employment history, project responsibilities, technical implementations, technologies, instructional experience, research activities, and supporting links.
+It preserves detailed employment history, project responsibilities, technical implementations, technologies, certifications, instructional experience, research activities, and supporting links.
 
-Position-specific résumés may be generated by selecting relevant experience, accomplishments, technologies, and professional summaries from this document while preserving the accuracy of the underlying professional history.
+Position-specific résumés may be generated by selecting relevant experience, accomplishments, technologies, professional development, and professional summaries from this document while preserving the accuracy of the underlying professional history.
+
+Foundational AI certifications should be represented as professional development and conceptual knowledge, rather than as evidence of production machine learning engineering, LLM fine-tuning, or agent orchestration experience unless independently supported by documented project work.
