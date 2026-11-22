@@ -1,3 +1,7 @@
+## Project Purpose
+
+This repository is the source of record for my professional history: a comprehensive archive of my career-related experience, projects, accomplishments, and supporting materials. It is intended to preserve the full breadth of my work, rather than represent a resume tailored to one position. Before applying for a specific role, I use this material as the source for selecting and shaping the most relevant experience into a targeted resume.
+
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=git-leon&hide=roff,tsql,html,css,javascript,c,c%2B%2B,MATLAB,perl&theme=tokyonight)<br> -->
 ![Git-Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=git-leon&show_icons=true&theme=dracula)
 
